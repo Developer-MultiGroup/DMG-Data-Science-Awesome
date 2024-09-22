@@ -96,15 +96,18 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-#### 📹 Video Tutorials
+### 🔗 Useful Links
+- [ Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard) - LLM'lerin değerlendirilmesi ve topluluk desteği ile sıralanması ile oluşan liderlik tablosu.
+
+### 📹 Video Tutorials
 - ☕ [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
 
-#### 📖 Blog Tutorials
+### 📖 Blog Tutorials
 - ☕ [How Large Language Models work](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f) - Teknik bilgiye boğulmadan LLM'lerin nasıl çalıştığını öğrenin.
 - ☕☕ [A Tutorial on LLM](https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc) - Transformer mimarisinin nasıl çalıştığını ve GenAI için önemli kavramları öğrenin.
 - ☕☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kayak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
 
-+ #### RAG
++ ### RAG
 
     + **📹 Video Tutorials**
         - ☕ [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) - ChatGPT API kullanarak LLM'ler ile karmaşık iş akışlarını nasıl otomatikleştireceğinizi öğrenin. 
@@ -114,7 +117,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
         - ☕ [(Part 1) Build your own RAG with Mistral-7B and LangChain](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146) - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım giderek anlatan yazı serisi.
         - ☕☕ [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2) - İleri RAG tekniklerini öğrenin ve uygulamasını görün.
 
-+ #### Fine Tuning
++ ### Fine Tuning
     + **📹 Video Tutorials**
         - ☕☕ [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) - Lamini kullanarak LLM'lere nasıl ince ayar yapabileceğinizi öğrenin.
 
@@ -122,7 +125,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
         - ☕☕ [Fine-Tuning Mistral 7b in Google Colab with QLoRA (complete guide)](https://medium.com/@codersama/fine-tuning-mistral-7b-in-google-colab-with-qlora-complete-guide-60e12d437cca) - Mistral-7b üzerinden nasıl fine tuning yapılacağını öğrenin.
 
 
-#### 🔧 Framework
+### 🔧 Framework
 - [Transformers](https://huggingface.co/docs/transformers/index) - Hugging Face tarafından geliştirilen, NLP ve generative AI modellerini kolayca kullanmanızı sağlayan bir kütüphane.
 - [LangChain](https://python.langchain.com/docs/introduction/) - Büyük dil modelleri (LLM) ile çalışma ve uygulama geliştirme sürecini kolaylaştıran bir framework.
 - [Haystack](https://haystack.deepset.ai/) - NLP görevleri için güçlü bir arama altyapısı sunan ve metinden metne generative modelleri destekleyen bir framework.
@@ -134,7 +137,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 
 
-#### Models
+### Models
 - [OpenAI](https://openai.com/api/) - OpenAI'nin API'si, çeşitli doğal dil görevlerini yerine getiren GPT-3 ve GPT-4 modellerine ve doğal dili koda çeviren Codex'e erişim sağlar.
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - Meta tarafından geliştirilen, 65 milyar parametreli temel bir büyük dil modeli.
 - [Claude](https://claude.ai/) - Anthropic tarafından geliştirilen bir yapay zeka asistanı olan Claude ile konuşun.
