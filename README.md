@@ -15,9 +15,14 @@
 > 👋 Kaynak arşivine katkı sağlamadan önce lütfen [Contribution Guide](./CONTRIBUTING.md)'a göz atınız.
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Developer MultiGroup](https://www.linkedin.com/company/devmultigroup/people/)
+[![LinkedIn](https://img.shields.io/badge/Follow@devmultigroup-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devmultigroup) [![Twitter Follow](https://img.shields.io/twitter/follow/devmultigroup?style=social)](https://x.com/devmultigroup)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/devmultigroup?style=social)](https://x.com/devmultigroup)
+
+### 🌟 Alanlar ve Sorumlu Kişiler
+
+| 📊 Data Science | 📈 Machine Learning | 🤖 GenerativeAI|
+|----------|----------|----------|
+| [Selin Çıldam](https://www.linkedin.com/in/selincildam/)| [Göker Güner](https://www.linkedin.com/in/gokerguner/) | [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)|
 
 
 
