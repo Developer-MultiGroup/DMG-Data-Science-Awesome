@@ -100,29 +100,29 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [ Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard) - LLM'lerin değerlendirilmesi ve topluluk desteği ile sıralanması ile oluşan liderlik tablosu.
 
 ### 📹 Video Tutorials
-- ☕ [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
+-  [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
 
 ### 📖 Blog Tutorials
-- ☕ [How Large Language Models work](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f) - Teknik bilgiye boğulmadan LLM'lerin nasıl çalıştığını öğrenin.
-- ☕☕ [A Tutorial on LLM](https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc) - Transformer mimarisinin nasıl çalıştığını ve GenAI için önemli kavramları öğrenin.
-- ☕☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kayak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
+-  [How Large Language Models work](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f) - Teknik bilgiye boğulmadan LLM'lerin nasıl çalıştığını öğrenin.
+- ☕ [A Tutorial on LLM](https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc) - Transformer mimarisinin nasıl çalıştığını ve GenAI için önemli kavramları öğrenin.
+- ☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kayak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
 
 + ### RAG
 
     + **📹 Video Tutorials**
-        - ☕ [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) - ChatGPT API kullanarak LLM'ler ile karmaşık iş akışlarını nasıl otomatikleştireceğinizi öğrenin. 
-        - ☕ [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - LangChain kullanarak LLM'lerin kullanım alanlarını genişletmeyi ve güçlü LLM uygulamaları oluşturmayı öğrenin.
+        -  [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) - ChatGPT API kullanarak LLM'ler ile karmaşık iş akışlarını nasıl otomatikleştireceğinizi öğrenin. 
+        -  [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - LangChain kullanarak LLM'lerin kullanım alanlarını genişletmeyi ve güçlü LLM uygulamaları oluşturmayı öğrenin.
 
     + **📖 Blog Tutorials**
-        - ☕ [(Part 1) Build your own RAG with Mistral-7B and LangChain](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146) - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım giderek anlatan yazı serisi.
-        - ☕☕ [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2) - İleri RAG tekniklerini öğrenin ve uygulamasını görün.
+        -  [(Part 1) Build your own RAG with Mistral-7B and LangChain](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146) - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım giderek anlatan yazı serisi.
+        - ☕ [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2) - İleri RAG tekniklerini öğrenin ve uygulamasını görün.
 
 + ### Fine Tuning
     + **📹 Video Tutorials**
-        - ☕☕ [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) - Lamini kullanarak LLM'lere nasıl ince ayar yapabileceğinizi öğrenin.
+        - ☕ [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) - Lamini kullanarak LLM'lere nasıl ince ayar yapabileceğinizi öğrenin.
 
     + **📖 Blog Tutorials**
-        - ☕☕ [Fine-Tuning Mistral 7b in Google Colab with QLoRA (complete guide)](https://medium.com/@codersama/fine-tuning-mistral-7b-in-google-colab-with-qlora-complete-guide-60e12d437cca) - Mistral-7b üzerinden nasıl fine tuning yapılacağını öğrenin.
+        - ☕ [Fine-Tuning Mistral 7b in Google Colab with QLoRA (complete guide)](https://medium.com/@codersama/fine-tuning-mistral-7b-in-google-colab-with-qlora-complete-guide-60e12d437cca) - Mistral-7b üzerinden nasıl fine tuning yapılacağını öğrenin.
 
 
 ### 🔧 Framework
