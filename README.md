@@ -60,10 +60,10 @@
 
 ### Introduction to Data Science
 
-+ **:book: Blog Tutorials**
++ **📖 Blog Tutorials**
     - [Difference of Data Science and Machine Learning](https://www.datasciencecentral.com/difference-of-data-science-machine-learning-and-data-mining/) - Veri Biliminin temel kavramlarına aşina olun.
 
-    + **:tools: Virtual Environment**
+    + **🛠️ Virtual Environment**
         - [Python Virtual Environment](https://www.geeksforgeeks.org/python-virtual-environment/) - Sanal ortamların nasıl kurulacağını ve neden kullanıldığını öğrenin.
 </details>
 
