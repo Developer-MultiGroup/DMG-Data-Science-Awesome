@@ -74,13 +74,10 @@
 - [Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction): Coursera'nın toplam 4 kurstan oluşan ML Uzmanlık serisi. Teorik bilginin yanı sıra notebook ödevleriyle birlikte ML kodlama pratiğine başlamak isteyenler için.
 - [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning): Kaggle'ın temel seviye ML kursu. Basit seviyede konseptler, tanımlar içerir.
 - [Kaggle Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning): Kaggle'ın giriş seviye kursunun devamı niteliğinde, yine de seviyesi çok üst düzey değil. Başlangıç seviyesinde olanların da rahatlıkla takip edebilecekleri bir kurs.
+- [DataTalksClub ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp): DataTalksClub'ın ML Zoomcamp'i. İçerikleri kendi hızınızda tüketebilirsiniz ancak, yılın belli dönemlerinde Zoom üzerinden dersler, ödevler vb. şeklinde de takip edilen "Zoomcamp"leri mevcut.
 
-### Books
 
-- ☕[The ML Book](https://themlbook.com/): Machine Learning temellerinden Reinforcement Learning'e kadar, matematiksel altyapıyı da içeren 100 sayfalık konu anlatım kitabı.
-- ☕☕[Mathematics for Machine Learning](https://mml-book.github.io/): ML konseptlerinin arkasındaki matematik üzerine yazılmış, ileri düzey bir çalışma.
-
-### Cheat Sheets
+### Blog Tutorials
 
 - ☕[Supervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-supervised-learning): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimli öğrenme notları.
 - ☕[Unsupervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-unsupervised-learning/): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimsiz öğrenme notları.
