@@ -68,7 +68,31 @@
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-#### Çok yakında...
+### Courses
+
+- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course): Google'ın ML üzerine kapsamlı temel bir kursu, pek çok ML kavramına dair temel bilgi edinmek ve kariyerine sağlam başlangıç noktaları oluşturmak isteyenler için.
+- [Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction): Coursera'nın toplam 4 kurstan oluşan ML Uzmanlık serisi. Teorik bilginin yanı sıra notebook ödevleriyle birlikte ML kodlama pratiğine başlamak isteyenler için.
+- [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning): Kaggle'ın temel seviye ML kursu. Basit seviyede konseptler, tanımlar içerir.
+- [Kaggle Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning): Kaggle'ın giriş seviye kursunun devamı niteliğinde, yine de seviyesi çok üst düzey değil. Başlangıç seviyesinde olanların da rahatlıkla takip edebilecekleri bir kurs.
+
+### Books
+
+- ☕[The ML Book](https://themlbook.com/): Machine Learning temellerinden Reinforcement Learning'e kadar, matematiksel altyapıyı da içeren 100 sayfalık konu anlatım kitabı.
+- ☕☕[Mathematics for Machine Learning](https://mml-book.github.io/): ML konseptlerinin arkasındaki matematik üzerine yazılmış, ileri düzey bir çalışma.
+
+### Cheat Sheets
+
+- ☕[Supervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-supervised-learning): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimli öğrenme notları.
+- ☕[Unsupervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-unsupervised-learning/): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimsiz öğrenme notları.
+
+### Videos
+
+- [Freecodecamp ML Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc): Freecodecamp'in yeni başlayanlar için 9 saat 52 dakikalık tek parça ML kursu.
+
+### Datasets
+ 
+- [UCI ML Repository](https://archive.ics.uci.edu/datasets): UC Irvine üniversitesine ait veri setleri. Kendi kütüphanesi ile direkt olarak python projesinin içerisine import edebiliyorsunuz.
+- [Kaggle Datasets](https://www.kaggle.com/datasets): Kaggle platformundaki veri setleri. Giriş seviyesi kurslardan sonra hangi alanda hangi veri türüyle çalışmak istediğine karar verme aşamasında mutlaka göz atılmalı.
 
 </details>
 
