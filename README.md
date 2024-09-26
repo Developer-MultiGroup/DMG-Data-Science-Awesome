@@ -29,7 +29,7 @@
 # 📑Table of Contents
 | 🗂️ **Structured**               |   🧠 **Unstructured**               |
 | --------------------------------|   --------------------------------  |
-| 🐍 [Python & R](#python-r)       | 🤖 [GenerativeAI](#generative-ai)   | 
+| 🐍 [Python & SQL](#python-sql)       | 🤖 [GenerativeAI](#generative-ai)   | 
 | 📊 [Data Science](#data-science) | 📝 [Natural Language Processing](#natural-language-processing) | 
 | 📈 [Machine Learning](#machine-learning) | 🧬 [Deep Learning](#deep-learning) |
 | 📚 [Data Books](#data-books)     | 👁️ [Computer Vision](#computer-vision) |
@@ -37,8 +37,8 @@
 
 
 
-<a name="python-r"></a>
-## 🐍Python & R
+<a name="python-sql"></a>
+## 🐍Python & SQL
 <details>
 <summary>Click to expand!</summary>
 
@@ -65,6 +65,16 @@
 
     + **🛠️ Virtual Environment**
         - [Python Virtual Environment](https://www.geeksforgeeks.org/python-virtual-environment/) - Sanal ortamların nasıl kurulacağını ve neden kullanıldığını öğrenin.
+     
+### Exploratory Data Analysis 
++ **📹 Video Tutorials**
+    - [Statistics for Data Science](https://www.youtube.com/watch?v=xxpc-HPKN28)- Veri Bilimi için gerekli istatistik altyapısını edinin.
+
+###  Data Wrangling & Preprocessing
+- [Handling Missing Values](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/) - Eksik verilere nasıl yaklaşılacağını öğrenin. 
+- [Discover Feature Engineering](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/) - Feature engineering nedir, nasıl yapılır? Mantığını öğrenin.
+- [Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-eb2e0cff7a30) - Veri ön işleme adımının nasıl yapılacağını öğrenin.
+
 </details>
 
 <a name="machine-learning"></a>
