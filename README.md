@@ -106,6 +106,7 @@
  
 - [UCI ML Repository](https://archive.ics.uci.edu/datasets): UC Irvine üniversitesine ait veri setleri. Kendi kütüphanesi ile direkt olarak python projesinin içerisine import edebiliyorsunuz.
 - [Kaggle Datasets](https://www.kaggle.com/datasets): Kaggle platformundaki veri setleri. Giriş seviyesi kurslardan sonra hangi alanda hangi veri türüyle çalışmak istediğine karar verme aşamasında mutlaka göz atılmalı.
+- [Awesome Repo](https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file#machinelearning): Başlangıç seviyesi küçük veri setlerinin ardından daha büyük projeler çıkarmak isteyenler için daha gelişmiş veri setlerinin olduğu bir repo. Bu repoda ilgi alanlarınıza göre ayrılmış başka alanlar için olan veri setlerini de görebilirsiniz.
 
 </details>
 
