@@ -45,10 +45,16 @@
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-#### Çok yakında...
 
+### SQL 
++ **📹 Video Tutorials**
+  
+    - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)- SQL dilini sıfırdan başlayarak öğrenin.
+
+### 🔗 Useful Links
+
+- [Learn SQL in stages](https://sqlzoo.net/wiki/SQL_Tutorial) - SQL bilginizi pratiklerle geliştirin.
 </details>
-
 
 
 <a name="data-science"></a>
