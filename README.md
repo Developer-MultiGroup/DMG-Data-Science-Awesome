@@ -20,8 +20,9 @@
 
 ### 🌟 Alanlar ve Sorumlu Kişiler
 
-| 📊 Data Science | 📈 Machine Learning | 🤖 GenerativeAI|
+| 🐍 Python & SQL | 📈 Machine Learning | 📝 Natural Language Processing|
 |----------|----------|----------|
+| 📊 Data Science | 🚀 MLOps-Deployment | 🤖 GenerativeAI|
 | [Selin Çıldam](https://www.linkedin.com/in/selincildam/)| [Göker Güner](https://www.linkedin.com/in/gokerguner/) | [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)|
 
 
