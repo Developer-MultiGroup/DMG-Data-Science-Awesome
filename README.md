@@ -287,9 +287,9 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-### Kaan Bıçakçı
+### [Kaan Bıçakçı](https://www.youtube.com/watch?v=pu5tuQshGoU)
 
-### Bilge Yücel
+### [Bilge Yücel](https://www.youtube.com/watch?v=UCpZJwb8UAY)
 
 </details>
 
