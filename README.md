@@ -180,6 +180,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
         -  [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - LangChain kullanarak LLM'lerin kullanım alanlarını genişletmeyi ve güçlü LLM uygulamaları oluşturmayı öğrenin.
 
     + **📖 Blog Tutorials**
+        - ☕ [Learn RAG with Langchain 🦜⛓️‍💥](https://www.sakunaharinda.xyz/ragatouille-book/intro.html) - Langchain ile RAG yapmayı öğrenin.
         -  [(Part 1) Build your own RAG with Mistral-7B and LangChain](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146) - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım giderek anlatan yazı serisi.
         - ☕ [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2) - İleri RAG tekniklerini öğrenin ve uygulamasını görün.
 
@@ -228,10 +229,10 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
 ### 🔗 Useful Links
-[Turkish NLP Resources](https://turkce.netlify.app/) - Türkçe NLP kaynaklarının derlendiği websitesi.
+- [Turkish NLP Resources](https://turkce.netlify.app/) - Türkçe NLP kaynaklarının derlendiği websitesi.
 
 ### 📹 Video Tutorials
-[Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) - Hugging Face üzerinden NLP temellerini öğrenin.
+- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) - Hugging Face üzerinden NLP temellerini öğrenin.
 
 ### 📖 Blog Tutorials
 
@@ -268,7 +269,9 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-#### Çok yakında...
+### AWS
+
+- [AWS Bedrock Samples](https://github.com/aws-samples/amazon-bedrock-samples) - AWS Bedrock örneklerini içeren repo.
 
 </details>
 
