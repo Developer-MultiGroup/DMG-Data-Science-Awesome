@@ -12,6 +12,9 @@
 
 **Online serimiz olan "DataCommit" etkinliğimize katılın. Data expertler ile soru-cevap fırsatını yakalayın. Herkes davetlidir.  Ücretsiz biletler için :point_right: [DataCommit](https://kommunity.com/devmultigroup/events/datacommit-series-d244edf8)**
 
+#### **📌 DataCommit Kaynaklar**
+ **DataCommit'te önerilen kaynaklara erişmek için :point_right: [DataCommit](#datacommit)** 
+
 > 👋 Kaynak arşivine katkı sağlamadan önce lütfen [Contribution Guide](./CONTRIBUTING.md)'a göz atınız.
 
 
@@ -272,6 +275,21 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 ### AWS
 
 - [AWS Bedrock Samples](https://github.com/aws-samples/amazon-bedrock-samples) - AWS Bedrock örneklerini içeren repo.
+
+</details>
+
+
+
+<a name="datacommit"></a>
+## ✨ DataCommit
+<details>
+<summary>Click to expand!</summary>
+
+**[`^        back to top        ^`](#dmg-data-science-awesome)**
+
+### Kaan Bıçakçı
+
+### Bilge Yücel
 
 </details>
 
