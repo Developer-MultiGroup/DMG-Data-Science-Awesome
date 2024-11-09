@@ -34,7 +34,7 @@
 | 📊 [Data Science](#data-science) | 📝 [Natural Language Processing](#natural-language-processing) | 
 | 📈 [Machine Learning](#machine-learning) | 🧬 [Deep Learning](#deep-learning) |
 | 📚 [Data Books](#data-books)     | 👁️ [Computer Vision](#computer-vision) |
-| 📰 [Data Papers](#data-papers)   | 🚀 [MLOps-Deployment](#mlops-deployment) |
+| 📰 [Data Papers](#data-papers)   | 🚀 [MLOps&Cloud](#mlops&cloud) |
 
 
 
@@ -52,9 +52,17 @@
   
     - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)- SQL dilini sıfırdan başlayarak öğrenin.
 
+### Python
+
+- [Yazbel Belgeleri](https://python-istihza.yazbel.com/index.html) - Python dilini Türkçe olarak detaylı bir şekilde öğrenin.
+- [CS50 Python](https://cs50.harvard.edu/python/2022/) - Harvard'ın ünlü CS50 dersinin Python için özel versiyonu.
+
 ### 🔗 Useful Links
 
 - [Learn SQL in stages](https://sqlzoo.net/wiki/SQL_Tutorial) - SQL bilginizi pratiklerle geliştirin.
+- [Hackerrank Python](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python) - Python'da algoritma pratiği yapın.
+- [Hackerrank SQL](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) - SQL'de pratik yapın.
+
 </details>
 
 
@@ -65,7 +73,15 @@
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
+### 🔗 Useful Links
+
+- [Veri Defteri](https://veridefteri.com/) - Veri Biliminin bir çok konusu hakkında hem blog hem video tutorialları olan websitesi.
+
+
 ### Introduction to Data Science
+
++ **📹 Video Tutorials**
+    - [Virtualenv](https://calmcode.io/course/virtualenv/intro) - Virtual environment neden gereklidir ve neden kullanılır. Detaylı öğrenin.
 
 + **📖 Blog Tutorials**
     - [Difference of Data Science and Machine Learning](https://www.datasciencecentral.com/difference-of-data-science-machine-learning-and-data-mining/) - Veri Biliminin temel kavramlarına aşina olun.
@@ -93,6 +109,7 @@
 
 ### Courses
 
+- [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/) - Microsoft tarafından yayınlanan AI kursu.
 - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course): Google'ın ML üzerine kapsamlı temel bir kursu, pek çok ML kavramına dair temel bilgi edinmek ve kariyerine sağlam başlangıç noktaları oluşturmak isteyenler için.
 - [Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction): Coursera'nın toplam 4 kurstan oluşan ML Uzmanlık serisi. Teorik bilginin yanı sıra notebook ödevleriyle birlikte ML kodlama pratiğine başlamak isteyenler için.
 - [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning): Kaggle'ın temel seviye ML kursu. Basit seviyede konseptler, tanımlar içerir.
@@ -100,16 +117,18 @@
 - [DataTalksClub ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp): DataTalksClub'ın ML Zoomcamp'i. İçerikleri kendi hızınızda tüketebilirsiniz ancak, yılın belli dönemlerinde Zoom üzerinden dersler, ödevler vb. şeklinde de takip edilen "Zoomcamp"leri mevcut.
 
 
-### Blog Tutorials
+### 📖 Blog Tutorials
 
 - ☕[Supervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-supervised-learning): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimli öğrenme notları.
 - ☕[Unsupervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-unsupervised-learning/): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimsiz öğrenme notları.
+- [What is Overfitting?](https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/) - Overfitting kavramını ve kaçınmanın yollarını öğrenin. 
 
-### Videos
+### 📹 Video Tutorials
 
 - [Freecodecamp ML Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc): Freecodecamp'in yeni başlayanlar için 9 saat 52 dakikalık tek parça ML kursu.
+- [Yapay Öğrenme için Matematik](https://www.youtube.com/playlist?list=PL-VAZnoQqQ4W3kxCI4At6flbG72k8mHVG) - Makine öğrenmesi için gereken matematiği öğrenin.
 
-### Datasets
+### 🗃️ Datasets
  
 - [UCI ML Repository](https://archive.ics.uci.edu/datasets): UC Irvine üniversitesine ait veri setleri. Kendi kütüphanesi ile direkt olarak python projesinin içerisine import edebiliyorsunuz.
 - [Kaggle Datasets](https://www.kaggle.com/datasets): Kaggle platformundaki veri setleri. Giriş seviyesi kurslardan sonra hangi alanda hangi veri türüyle çalışmak istediğine karar verme aşamasında mutlaka göz atılmalı.
@@ -151,6 +170,8 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 -  [How Large Language Models work](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f) - Teknik bilgiye boğulmadan LLM'lerin nasıl çalıştığını öğrenin.
 - ☕ [A Tutorial on LLM](https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc) - Transformer mimarisinin nasıl çalıştığını ve GenAI için önemli kavramları öğrenin.
 - ☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kayak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
+- [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) - Anthropics kendi modelleri üzerinden anlattığı Prompt Engineering notebookları.
+- ☕☕ [Llama 3 from Scratch](https://github.com/naklecha/llama3-from-scratch/blob/main/llama3-from-scratch.ipynb) - Llama 3 modelini sıfırdan implemente eden eğlenceli bir notebook.
 
 + ### RAG
 
@@ -206,7 +227,13 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-#### Çok yakında...
+### 🔗 Useful Links
+[Turkish NLP Resources](https://turkce.netlify.app/) - Türkçe NLP kaynaklarının derlendiği websitesi.
+
+### 📹 Video Tutorials
+[Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) - Hugging Face üzerinden NLP temellerini öğrenin.
+
+### 📖 Blog Tutorials
 
 </details> 
 
@@ -217,7 +244,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-#### Çok yakında...
+- ☕☕ [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) - Pytorch'un nasıl çalıştığını öğrenin.
 
 </details>
 
@@ -229,13 +256,13 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-#### Çok yakında...
+[Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
 
 </details>
 
 
-<a name="mlops-deployment"></a>
-## 🚀MLOps Deployment
+<a name="mlops&cloud"></a>
+## 🚀MLOps & Cloud
 <details>
 <summary>Click to expand!</summary>
 
