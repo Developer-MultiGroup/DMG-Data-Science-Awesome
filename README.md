@@ -8,9 +8,9 @@
 
 *Ekibimizi ve üzerinde çalıştığımız işleri daha yakından inceleyin :point_right:* [MultiGroup.hq](https://github.com/Developer-MultiGroup/MultiGroup.hq)
 
-![aiconf](/images/aiconf.png)
+![aiconf](/images/datacommit.png)
 
-**"AI Conference" etkinliğimize katılın. Data expertler ile tanışma fırtası yakalayın. Herkes davetlidir. 28 Eylül 2024 Facebook İstasyon.  Ücretsiz biletler için :point_right: [AI Conference](https://kommunity.com/devmultigroup/events/ai-conference-shaping-tomorrow-edf94d1f)**
+**Online serimiz olan "DataCommit" etkinliğimize katılın. Data expertler ile soru-cevap fırsatını yakalayın. Herkes davetlidir.  Ücretsiz biletler için :point_right: [DataCommit](https://kommunity.com/devmultigroup/events/datacommit-series-d244edf8)**
 
 > 👋 Kaynak arşivine katkı sağlamadan önce lütfen [Contribution Guide](./CONTRIBUTING.md)'a göz atınız.
 
