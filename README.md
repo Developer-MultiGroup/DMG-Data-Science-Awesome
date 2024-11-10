@@ -124,7 +124,8 @@
 
 - ☕[Supervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-supervised-learning): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimli öğrenme notları.
 - ☕[Unsupervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-unsupervised-learning/): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimsiz öğrenme notları.
-- [What is Overfitting?](https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/) - Overfitting kavramını ve kaçınmanın yollarını öğrenin. 
+- [What is Overfitting?](https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/): Overfitting kavramını ve kaçınmanın yollarını öğrenin. 
+- [Scikit Learn Official Document](https://scikit-learn.org/stable/index.html): Temel algoritmalar, preprocess yöntemleri, model başarı ölçümlemeleri gibi Machine Learning'e ait neredeyse bütün konseptler için Python dilinde kullanabileceğiniz scikit-learn'ün resmi dokümantasyonu.
 
 ### 📹 Video Tutorials
 
