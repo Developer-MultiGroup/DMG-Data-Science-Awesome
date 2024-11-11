@@ -239,7 +239,10 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) - Hugging Face üzerinden NLP temellerini öğrenin.
 
 ### 📖 Blog Tutorials
-
+- [What Is Natural Language Processing?](https://machinelearningmastery.com/natural-language-processing/) - Doğal Dil İşleme nedir?
+- [Natural Language Processing is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) - Adım adım NLP temellerini öğrenin. [[2]](https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788),[[3]](https://medium.com/@ageitgey/natural-language-processing-is-fun-part-3-explaining-model-predictions-486d8616813c), [[4]](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d), [[5]](https://medium.com/@ageitgey/build-your-own-google-translate-quality-machine-translation-system-d7dc274bd476)
+- [NLP Python Repo](https://github.com/milaan9/Python_Natural_Language_Processing) - Notebooklar üzerinden NLP temellerini öğrenin.
+- [TR NLP 101](https://github.com/kolaydilisleme/NLP-101-Egitim) - Türkçe olarak NLP temellerini öğrenin.
 </details> 
 
 <a name="deep-learning"></a>
@@ -261,7 +264,9 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-[Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
+
+### 📹 Video Tutorials
+    - [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
 
 </details>
 
