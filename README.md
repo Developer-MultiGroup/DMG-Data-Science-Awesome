@@ -177,6 +177,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - ☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kayak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
 - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) - Anthropics kendi modelleri üzerinden anlattığı Prompt Engineering notebookları.
 - ☕☕ [Llama 3 from Scratch](https://github.com/naklecha/llama3-from-scratch/blob/main/llama3-from-scratch.ipynb) - Llama 3 modelini sıfırdan implemente eden eğlenceli bir notebook.
+- ☕ [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) - Transformers modelleri nasıl metin üretiyor?
 
 + ### RAG
 
@@ -195,6 +196,10 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
     + **📖 Blog Tutorials**
         - ☕ [Fine-Tuning Mistral 7b in Google Colab with QLoRA (complete guide)](https://medium.com/@codersama/fine-tuning-mistral-7b-in-google-colab-with-qlora-complete-guide-60e12d437cca) - Mistral-7b üzerinden nasıl fine tuning yapılacağını öğrenin.
+        - [Fine-tune a pretrained model](https://huggingface.co/docs/transformers/en/training) - Hugging Face tarafında ince ayar nasıl yapılır.
+        - ☕☕ [BERT Fine-Tuning Tutorial with PyTorch](https://mccormickml.com/2019/07/22/BERT-fine-tuning/) - Pytorch ile Bert'i fine tune ederek, konuya derinlemesine dalın.
+        - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration) - Quantization nedir ve neden yapılmalıdır?
+        - [Code LoRA from Scratch](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?utm_source=tldrai) - LoRA metodunu sıfırdan öğrenin.
 
 
 ### 🔧 Framework
@@ -245,10 +250,10 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 ### 📖 Blog Tutorials
 - [What Is Natural Language Processing?](https://machinelearningmastery.com/natural-language-processing/) - Doğal Dil İşleme nedir?
-- [Natural Language Processing is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) - Adım adım NLP temellerini öğrenin. [[2]](https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788),[[3]](https://medium.com/@ageitgey/natural-language-processing-is-fun-part-3-explaining-model-predictions-486d8616813c), [[4]](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d), [[5]](https://medium.com/@ageitgey/build-your-own-google-translate-quality-machine-translation-system-d7dc274bd476)
+- ☕ [Natural Language Processing is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) - Adım adım NLP temellerini öğrenin. [[2]](https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788),[[3]](https://medium.com/@ageitgey/natural-language-processing-is-fun-part-3-explaining-model-predictions-486d8616813c), [[4]](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d), [[5]](https://medium.com/@ageitgey/build-your-own-google-translate-quality-machine-translation-system-d7dc274bd476)
 - [NLP Python Repo](https://github.com/milaan9/Python_Natural_Language_Processing) - Notebooklar üzerinden NLP temellerini öğrenin.
 - [TR NLP 101](https://github.com/kolaydilisleme/NLP-101-Egitim) - Türkçe olarak NLP temellerini öğrenin.
-- [Natural Language Processing Specialization on Coursera](https://aman.ai/coursera-nlp/) - Natural Language Processing Specialization detaylı kurs dokümanları.
+- ☕☕ [Natural Language Processing Specialization on Coursera](https://aman.ai/coursera-nlp/) - Natural Language Processing Specialization detaylı kurs dokümanları.
 
 </details> 
 
