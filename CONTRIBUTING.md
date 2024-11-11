@@ -12,16 +12,16 @@ Bu repo, data alanında çalışanlar veya meraklılar için kaynaklar içeren b
 
 - Data alanına başlamak isteyen kişiler için başlangıç kaynaklara,
 - Science & Analysis & GenAI vb. kitap arşivine,
-- Paperlara, blog yazılarına ve daha nicelerine bu  repo üzerinden erişebilirsiniz.
+- Paperlara, blog yazılarına ve daha nicelerine bu repo üzerinden erişebilirsiniz.
 
 # Yapı
 
-Bu repository aşağıdaki şekilde yapılandırılmıştır:
+Repo aşağıdaki şekilde yapılandırılmıştır:
 
 ```
 root
 └── README.md
-    ├── Python & R
+    ├── Python & SQL
     ├── Data Science
     ├── Machine Learning
     └── Data Books
@@ -30,7 +30,8 @@ root
     └── Natural Language Processing
     └── Deep Learning
     └── Computer Vision
-    └── MLOps-Deployment
+    └── MLOps & Cloud
+    └── DataCommit
 └── BOOKS.md
 └── PAPERS.MD
 └── images
@@ -38,7 +39,7 @@ root
 
 # Nasıl katkı sağlayabilirim
 
-Öncelikle ilginiz için teşekkür ediyoruz. Aşağıdaki adımları takip ederek arşive katkıda bulunabilirsiniz.
+Öncelikle ilginiz için teşekkür ederiz. Aşağıdaki adımları takip ederek arşive katkıda bulunabilirsiniz.
 
 1. İlk adımda, repoyu `fork` edin.
 2. Fork işlemi tamamlandıktan sonra, `git clone` komutunu kullanarak kopyayı bilgisayarınıza çekin.
@@ -47,8 +48,7 @@ root
 5. Son olarak, bu repoya yeni bir `pull request` oluşturun ve yaptığınız değişiklikleri açıklamak için gerekli bilgileri ekleyin.
 
 # Dikkat edilmesi gerekenler
-
-- Eklediğiniz her şey için bir dil sembolü ekleyiniz. [ TR / EN ]
+- Eklediğiniz her kaynağı ilgili kategori veya markdown dosyasının altında bulunmalıdır.
 - Paylaştığınız kaynak, kitap veya kurs için açıklama ekleyiniz.
 - Yaptığınız değişikliği aşağıdaki gibi isimlendirmeye dikkat ediniz:
   - feature/değişiklik_adı -> yeni bir özellik
