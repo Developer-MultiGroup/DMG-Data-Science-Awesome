@@ -11,3 +11,15 @@
 - [LoRA](https://arxiv.org/abs/2106.09685): Low-Rank Adaptation of Large Language Models: One rank is all you need
 - [RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401): Semi-parametric models* are all you need (*Dense vector retrieval as non-parametric component; pre-trained LLM as parametric component)
 - [Whisper](https://arxiv.org/abs/2212.04356): Robust Speech Recognition via Large-Scale Weak Supervision: 680k hrs of audio and multitask formulated as a sequence is all you need.
+
+## 📝Natural Language Processing
+
+- [Breaking Sticks and Ambiguities with Adaptive Skip-gram](https://arxiv.org/abs/1502.07257): Character n-grams are all you need* (*Also subword tokenization)
+
+- [Distributed Representations of Words and Phrases](https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf): Skip-gram with negative sampling is all you need* (*Also, hierarchical softmax and subsampling of frequent words)
+
+- [Learning the Dimensionality of Word Embeddings](https://arxiv.org/abs/1511.05392): Automatic dimension selection is all you need* (*Also, Bayesian skip-gram model)
+
+- [Emergence of Language with Multi-agent Games](https://proceedings.neurips.cc/paper_files/paper/2017/file/70222949cc0db89ab32c9969754d4758-Paper.pdf): Self-play and reward signals are all you need* (*Also emergent communication protocols)
+
+- [Skip Thought Vectors](https://arxiv.org/abs/1506.06726): Sentence encoders trained on book sequences are all you need* (*Also, encoder-decoder architecture trained on continuous text)
