@@ -112,6 +112,7 @@
 
 ### Courses
 
+- [Makine Öğrenmesine Giriş](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH) - ML teorisini detaylı bir şekilde öğrenin. Ders kaynaklarına [buradan](https://github.com/sibirbil/IMO2020) erişebilirsiniz.
 - [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/) - Microsoft tarafından yayınlanan AI kursu.
 - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course): Google'ın ML üzerine kapsamlı temel bir kursu, pek çok ML kavramına dair temel bilgi edinmek ve kariyerine sağlam başlangıç noktaları oluşturmak isteyenler için.
 - [Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction): Coursera'nın toplam 4 kurstan oluşan ML Uzmanlık serisi. Teorik bilginin yanı sıra notebook ödevleriyle birlikte ML kodlama pratiğine başlamak isteyenler için.
@@ -234,15 +235,21 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 ### 🔗 Useful Links
 - [Turkish NLP Resources](https://turkce.netlify.app/) - Türkçe NLP kaynaklarının derlendiği websitesi.
+- [NLP Cheat Sheet Repo](https://github.com/janlukasschroeder/nlp-cheat-sheet-python) - Python NLP Cheat Sheet
+- [High-Quality Resources for studying NLP](https://medium.com/nlplanet/awesome-nlp-18-high-quality-resources-for-studying-nlp-1b4f7fd87322) - Kaliteli NLP kaynakları
 
 ### 📹 Video Tutorials
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) - Hugging Face üzerinden NLP temellerini öğrenin.
+- [Natural Language Processing at UT Austin](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) - Austin üniversitesi NLP dersleri.
+- [Doğal Dil İşleme Yaz Okulu](https://www.youtube.com/playlist?list=PLMGWwuh6-mEe57iOtf1uo5DgZB288l0CQ) - Türkçe Doğal Dil İşleme yaz okulu.
 
 ### 📖 Blog Tutorials
 - [What Is Natural Language Processing?](https://machinelearningmastery.com/natural-language-processing/) - Doğal Dil İşleme nedir?
 - [Natural Language Processing is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) - Adım adım NLP temellerini öğrenin. [[2]](https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788),[[3]](https://medium.com/@ageitgey/natural-language-processing-is-fun-part-3-explaining-model-predictions-486d8616813c), [[4]](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d), [[5]](https://medium.com/@ageitgey/build-your-own-google-translate-quality-machine-translation-system-d7dc274bd476)
 - [NLP Python Repo](https://github.com/milaan9/Python_Natural_Language_Processing) - Notebooklar üzerinden NLP temellerini öğrenin.
 - [TR NLP 101](https://github.com/kolaydilisleme/NLP-101-Egitim) - Türkçe olarak NLP temellerini öğrenin.
+- [Natural Language Processing Specialization on Coursera](https://aman.ai/coursera-nlp/) - Natural Language Processing Specialization detaylı kurs dokümanları.
+
 </details> 
 
 <a name="deep-learning"></a>
