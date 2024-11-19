@@ -25,7 +25,7 @@
 
 | 🐍 Python & SQL | 📈 Machine Learning | 📝 Natural Language Processing|
 |----------|----------|----------|
-| 📊 Data Science | 🚀 MLOps-Deployment | 🤖 GenerativeAI|
+| 📊 Data Science | 🚀 MLOps & Cloud | 🤖 GenerativeAI|
 | [Selin Çıldam](https://www.linkedin.com/in/selincildam/)| [Göker Güner](https://www.linkedin.com/in/gokerguner/) | [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)|
 
 
@@ -37,7 +37,7 @@
 | 📊 [Data Science](#data-science) | 📝 [Natural Language Processing](#natural-language-processing) | 
 | 📈 [Machine Learning](#machine-learning) | 🧬 [Deep Learning](#deep-learning) |
 | 📚 [Data Books](#data-books)     | 👁️ [Computer Vision](#computer-vision) |
-| 📰 [Data Papers](#data-papers)   | 🚀 [MLOps&Cloud](#mlops&cloud) |
+| 📰 [Data Papers](#data-papers)   | 🚀 [MLOps & Cloud](#mlops&cloud) |
 
 
 
@@ -278,7 +278,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 
 ### 📹 Video Tutorials
-    - [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
+- [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
 
 </details>
 
@@ -305,10 +305,37 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-### [Kaan Bıçakçı](https://www.youtube.com/watch?v=pu5tuQshGoU)
+### [👻 Kaan Bıçakçı](https://www.youtube.com/watch?v=pu5tuQshGoU)
+
+**Books:**
+- ☕ **Probabilistic Machine Learning: An Introduction** - *Kevin Murphy* - Matematiği seviyorsanız ve ML'in temellerini öğrenmek istiyorsanız, güzel bir başlangıç. 
+
+- ☕☕ **Probabilistic Machine Learning: Advanced Topics** - *Kevin Murphy* - Matematiği seviyorsanız ve ML temeliniz varsa, bunu daha ileriye taşımak istiyorsanız göz atabilirsiniz. 
+
+**Reddit:**
+- [Leetcode](https://www.reddit.com/r/leetcode/) - FAANG mülakatları ile ilgili deneyimleri okuyabilirsiniz.
+
+- [Cscareerquestions](https://www.reddit.com/r/cscareerquestions/) - Genel CS ilgili soru-cevapların olduğu bir yer.
+
+- [MachineLearning](https://www.reddit.com/r/MachineLearning/) - Genel olarak ML ile ilgili ilginç başlıklar bulabilirsiniz.
+
+- [LocalLLaMa](https://www.reddit.com/r/LocalLLaMA/) - Yeni çıkan LLM'lerin yorumlarına ulaşabilirsiniz.
+
+- [EngineeringResumes](https://www.reddit.com/r/EngineeringResumes/) - CV değerlendirmeleri bulabilirsiniz.
+
+- [Programming](https://www.reddit.com/r/programming/) - Can sıkıntısında dolaşmak için :)
+
+**YouTube:**
+
+- ☕ [Ritvikmath](https://www.youtube.com/@ritvikmath) - Genel Data Science konseptlerini anlamak için güzel bir kanal. 
+
+- [3blue1brown](https://www.youtube.com/@3blue1brown) - Animasyonlu ilginç konu anlatımları bulabilirsiniz.
+
 
 ### [Bilge Yücel](https://www.youtube.com/watch?v=UCpZJwb8UAY)
 
+
+### [Alara Dirik](https://www.youtube.com/watch?v=fGEApsNKKw0)
 </details>
 
 ----
