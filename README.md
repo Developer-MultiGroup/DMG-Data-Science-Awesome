@@ -336,7 +336,9 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 
 ### [Alara Dirik](https://www.youtube.com/watch?v=fGEApsNKKw0)
-</details>
+- [Hype](https://hype.replicate.dev/) - Github, Hugging Face, Replicate ve Reddit'te trend olan ML projelerini günlük olarak sıralayan bir site :)
+- [AlphaSignal](https://alphasignal.ai/) - ML ürün ve araştırmalarından son haberleri almak için güzel bir haber bülteni :coffee::coffee:
+- [DataCamp](https://www.datacamp.com/) - Hem programlama hem veri bilimi, veri mühendisliği için kısa süreli kursları ve kendi online kod editörü olan bir site, ücretli ama uygun fiyatları var.
 
 ----
 
