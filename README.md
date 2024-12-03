@@ -167,7 +167,10 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 ### 🔗 Useful Links
 - [ Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard) - LLM'lerin değerlendirilmesi ve topluluk desteği ile sıralanması ile oluşan liderlik tablosu.
-
+- [LLMOps Database](https://www.zenml.io/llmops-database) - Gerçek dünya senaryolarında LLM'lerin nasıl kullanıldığını ayrıntılı bir şekilde görebileceğiniz web sitesi.
+- [ML and LLM system design](https://www.evidentlyai.com/ml-system-design) - ML ve LLM için oluşturulmuş 500+ case study.
+- [https://research.aimultiple.com/generative-ai-applications/](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
+  
 ### 📹 Video Tutorials
 -  [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
 
@@ -343,8 +346,9 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 ### [Olgun Aydın](https://www.youtube.com/live/yhTxZr_bmDU)
 
-</details>
 ----
+</details>
+
 
 
 <a href="https://discord.gg/gEfnhvcr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/Developer-MultiGroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/company/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://medium.com/developer-multicamp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://x.com/devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
