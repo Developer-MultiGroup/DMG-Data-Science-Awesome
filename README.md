@@ -170,17 +170,20 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [LLMOps Database](https://www.zenml.io/llmops-database) - Gerçek dünya senaryolarında LLM'lerin nasıl kullanıldığını ayrıntılı bir şekilde görebileceğiniz web sitesi.
 - [ML and LLM system design](https://www.evidentlyai.com/ml-system-design) - ML ve LLM için oluşturulmuş 500+ case study.
 - [https://research.aimultiple.com/generative-ai-applications/](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
+- [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook) - Farklı araçlar kullanılarak yapılmış çeşitli GenAI uygulama örnekleri bulabileceğiniz bir repo.
   
 ### 📹 Video Tutorials
 -  [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
+-  [Building AI Applications with Haystack (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) - Haystack kullanarak farklı GenAI uygulamaları geliştirmeyi öğrenin.
 
 ### 📖 Blog Tutorials
 -  [How Large Language Models work](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f) - Teknik bilgiye boğulmadan LLM'lerin nasıl çalıştığını öğrenin.
 - ☕ [A Tutorial on LLM](https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc) - Transformer mimarisinin nasıl çalıştığını ve GenAI için önemli kavramları öğrenin.
-- ☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kayak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
+- ☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kaynak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
 - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) - Anthropics kendi modelleri üzerinden anlattığı Prompt Engineering notebookları.
 - ☕☕ [Llama 3 from Scratch](https://github.com/naklecha/llama3-from-scratch/blob/main/llama3-from-scratch.ipynb) - Llama 3 modelini sıfırdan implemente eden eğlenceli bir notebook.
 - ☕ [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) - Transformers modelleri nasıl metin üretiyor?
+- ☕ [Create a Swarm of Agents](https://haystack.deepset.ai/blog/swarm-of-agents) - OpenAI'ın Swarm konseptini başka modellerle (Llama, Antropic Claude vs.) nasıl yapılacağını anlatan bir blog yazısı
 
 + ### RAG
 
@@ -190,8 +193,10 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
     + **📖 Blog Tutorials**
         - ☕ [Learn RAG with Langchain 🦜⛓️‍💥](https://www.sakunaharinda.xyz/ragatouille-book/intro.html) - Langchain ile RAG yapmayı öğrenin.
+        - [Creating Your First QA Pipeline with Retrieval-Augmentation](https://haystack.deepset.ai/tutorials/27_first_rag_pipeline) - Haystack ile ilk RAG uygulamanızı geliştirin
         -  [(Part 1) Build your own RAG with Mistral-7B and LangChain](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146) - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım giderek anlatan yazı serisi.
         - ☕ [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2) - İleri RAG tekniklerini öğrenin ve uygulamasını görün.
+        - ☕ [(Part 1) Advanced Retrieval: Extract Metadata from Queries to Improve Retrieval](https://haystack.deepset.ai/blog/extracting-metadata-filter) - Metadata filtering, query decomposition gibi tekniklerle ileri seviye RAG uygulamaları geliştirmeyi anlatan yazı serisi
 
 + ### Fine Tuning
     + **📹 Video Tutorials**
@@ -208,7 +213,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 ### 🔧 Framework
 - [Transformers](https://huggingface.co/docs/transformers/index) - Hugging Face tarafından geliştirilen, NLP ve generative AI modellerini kolayca kullanmanızı sağlayan bir kütüphane.
 - [LangChain](https://python.langchain.com/docs/introduction/) - Büyük dil modelleri (LLM) ile çalışma ve uygulama geliştirme sürecini kolaylaştıran bir framework.
-- [Haystack](https://haystack.deepset.ai/) - NLP görevleri için güçlü bir arama altyapısı sunan ve metinden metne generative modelleri destekleyen bir framework.
+- [Haystack](https://haystack.deepset.ai/) - Büyük dil modellerini orkestre ederek farklı kullanım alanlarında (RAG, AI Agent'ları vs.) uygulama geliştirmenizi sağlayan açık kaynak bir framework.
 - [co:here](https://cohere.ai/) - Cohere, gelişmiş Büyük Dil Modelleri ve NLP araçlarına erişim sağlar.
 - [Ollama](https://github.com/ollama/ollama) - Büyük dil modellerini yerel olarak çalıştırmanızı sağlayan bir framework.
 - [DeepSpeed](https://www.deepspeed.ai/) - Microsoft tarafından geliştirilen, büyük modellerin daha verimli bir şekilde eğitilmesi ve kullanılması için optimize edilmiş bir deep learning optimizasyon kütüphanesi.
@@ -335,8 +340,11 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [3blue1brown](https://www.youtube.com/@3blue1brown) - Animasyonlu ilginç konu anlatımları bulabilirsiniz.
 
 
-### [Bilge Yücel](https://www.youtube.com/watch?v=UCpZJwb8UAY)
-
+### [🥑 Bilge Yücel](https://www.youtube.com/watch?v=UCpZJwb8UAY)
+* [DataTalks.Club](https://open.spotify.com/show/0pck8zuiXdI0OrCg86DAPy?si=4bb8b679e54d46c2) - Data alanında ünlü insanları konuk eden bir podcast
+* ☕ [AI News by Smol AI](https://buttondown.com/ainews) - Önde gelen araçlarının discord sunucularında, popüler subredditlerde, sosyal medyada olan AI ile alakalı haberleri derleyen günlük bülten
+* [Lu.Ma Istanbul](https://lu.ma/istanbul) - kommunity.com veya meetup gibi platformların alternatifi, AI/ML de dahil olmak üzere başka etkinlikleri de takip edebileceğiniz takvim
+ 
 
 ### [🤗 Alara Dirik](https://www.youtube.com/watch?v=fGEApsNKKw0)
 - [Hype](https://hype.replicate.dev/) - Github, Hugging Face, Replicate ve Reddit'te trend olan ML projelerini günlük olarak sıralayan bir site :)
