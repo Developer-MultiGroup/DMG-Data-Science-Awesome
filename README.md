@@ -25,7 +25,7 @@
 
 | 🐍 Python & SQL | 📈 Machine Learning | 📝 Natural Language Processing|
 |----------|----------|----------|
-| 📊 Data Science | 🚀 MLOps-Deployment | 🤖 GenerativeAI|
+| 📊 Data Science | 🚀 MLOps & Cloud | 🤖 GenerativeAI|
 | [Selin Çıldam](https://www.linkedin.com/in/selincildam/)| [Göker Güner](https://www.linkedin.com/in/gokerguner/) | [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)|
 
 
@@ -37,7 +37,7 @@
 | 📊 [Data Science](#data-science) | 📝 [Natural Language Processing](#natural-language-processing) | 
 | 📈 [Machine Learning](#machine-learning) | 🧬 [Deep Learning](#deep-learning) |
 | 📚 [Data Books](#data-books)     | 👁️ [Computer Vision](#computer-vision) |
-| 📰 [Data Papers](#data-papers)   | 🚀 [MLOps&Cloud](#mlops&cloud) |
+| 📰 [Data Papers](#data-papers)   | 🚀 [MLOps & Cloud](#mlops&cloud) |
 
 
 
@@ -59,12 +59,15 @@
 
 - [Yazbel Belgeleri](https://python-istihza.yazbel.com/index.html) - Python dilini Türkçe olarak detaylı bir şekilde öğrenin.
 - [CS50 Python](https://cs50.harvard.edu/python/2022/) - Harvard'ın ünlü CS50 dersinin Python için özel versiyonu.
+- [30 Days of Python](https://dev.to/arindamdawn/series/7425) - 30 günde Python öğrenin.
 
 ### 🔗 Useful Links
 
 - [Learn SQL in stages](https://sqlzoo.net/wiki/SQL_Tutorial) - SQL bilginizi pratiklerle geliştirin.
 - [Hackerrank Python](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python) - Python'da algoritma pratiği yapın.
 - [Hackerrank SQL](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) - SQL'de pratik yapın.
+- [NeetCode Data Structures](https://neetcode.io/practice) - Veri yapıları konusunda pratik yapın.
+- [algoleague](https://algoleague.com/) - Çeşitli dillerde algoritma sorularını çözebileceğiniz ve yarışmalara katılabileceğiniz yerli platform.
 
 </details>
 
@@ -79,7 +82,7 @@
 ### 🔗 Useful Links
 
 - [Veri Defteri](https://veridefteri.com/) - Veri Biliminin bir çok konusu hakkında hem blog hem video tutorialları olan websitesi.
-
+- [Yapay Zekâ Araştırma İnisiyatifi](https://yz-ai.github.io/kaynaklar/) - Derin öğrenme konusunda birçok iyi kaynağın çevrilmiş hallerinin derlendiği websitesi. 
 
 ### Introduction to Data Science
 
@@ -127,6 +130,7 @@
 - ☕[Unsupervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-unsupervised-learning/): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimsiz öğrenme notları.
 - [What is Overfitting?](https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/): Overfitting kavramını ve kaçınmanın yollarını öğrenin. 
 - [Scikit Learn Official Document](https://scikit-learn.org/stable/index.html): Temel algoritmalar, preprocess yöntemleri, model başarı ölçümlemeleri gibi Machine Learning'e ait neredeyse bütün konseptler için Python dilinde kullanabileceğiniz scikit-learn'ün resmi dokümantasyonu.
+- [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics) - Makine öğrenmesi algoritmalarının hem teorisini hem pratiğini notebooklar üzerinden adım adım implemantasyonuyla birlikte veren repo.
 
 ### 📹 Video Tutorials
 
@@ -167,17 +171,30 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 ### 🔗 Useful Links
 - [ Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard) - LLM'lerin değerlendirilmesi ve topluluk desteği ile sıralanması ile oluşan liderlik tablosu.
-
+- [LLMOps Database](https://www.zenml.io/llmops-database) - Gerçek dünya senaryolarında LLM'lerin nasıl kullanıldığını ayrıntılı bir şekilde görebileceğiniz web sitesi.
+- [ML and LLM system design](https://www.evidentlyai.com/ml-system-design) - ML ve LLM için oluşturulmuş 500+ case study.
+- [https://research.aimultiple.com/generative-ai-applications/](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
+- [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook) - Farklı araçlar kullanılarak yapılmış çeşitli GenAI uygulama örnekleri bulabileceğiniz bir repo.
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) - Promt engineering temellerini detaylı bir şekilde öğrenin.
+- ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paperların torch tabanlı implemanstasyonlarını içeren websitesi.
+  
 ### 📹 Video Tutorials
 -  [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
+-  [Building AI Applications with Haystack (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) - Haystack kullanarak farklı GenAI uygulamaları geliştirmeyi öğrenin.
+-  [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) - Google Cloud ile GenAI-LLM temellerini öğrenin.
+-  ☕ [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Multi Agent sistemlerin temellerini CrewAI ile öğrenin.
+-  ☕☕ [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/) - Çeşitli AI Agent senaryolarını Crew AI üzerinden deneyimleyin.
 
 ### 📖 Blog Tutorials
 -  [How Large Language Models work](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f) - Teknik bilgiye boğulmadan LLM'lerin nasıl çalıştığını öğrenin.
+-  [BERT 101 🤗 State Of The Art NLP Model Explained ](https://huggingface.co/blog/bert-101) - Bert nedir, nasıl kullanılır, farklı Bert türleri nelerdir konularında bilgi sahibi olun.
+-  [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) - Anthropics kendi modelleri üzerinden anlattığı Prompt Engineering notebookları.
 - ☕ [A Tutorial on LLM](https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc) - Transformer mimarisinin nasıl çalıştığını ve GenAI için önemli kavramları öğrenin.
-- ☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kayak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
-- [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) - Anthropics kendi modelleri üzerinden anlattığı Prompt Engineering notebookları.
-- ☕☕ [Llama 3 from Scratch](https://github.com/naklecha/llama3-from-scratch/blob/main/llama3-from-scratch.ipynb) - Llama 3 modelini sıfırdan implemente eden eğlenceli bir notebook.
+- ☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kaynak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
 - ☕ [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) - Transformers modelleri nasıl metin üretiyor?
+- ☕ [Create a Swarm of Agents](https://haystack.deepset.ai/blog/swarm-of-agents) - OpenAI'ın Swarm konseptini başka modellerle (Llama, Antropic Claude vs.) nasıl yapılacağını anlatan bir blog yazısı
+- ☕☕ [LLM Workshop](https://github.com/rasbt/LLM-workshop-2024) - LLM temellerini notebooklar üzerinden detaylı bir şekilde öğrenin.
+- ☕☕ [Llama 3 from Scratch](https://github.com/naklecha/llama3-from-scratch/blob/main/llama3-from-scratch.ipynb) - Llama 3 modelini sıfırdan implemente eden eğlenceli bir notebook.
 
 + ### RAG
 
@@ -187,8 +204,10 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
     + **📖 Blog Tutorials**
         - ☕ [Learn RAG with Langchain 🦜⛓️‍💥](https://www.sakunaharinda.xyz/ragatouille-book/intro.html) - Langchain ile RAG yapmayı öğrenin.
+        - [Creating Your First QA Pipeline with Retrieval-Augmentation](https://haystack.deepset.ai/tutorials/27_first_rag_pipeline) - Haystack ile ilk RAG uygulamanızı geliştirin
         -  [(Part 1) Build your own RAG with Mistral-7B and LangChain](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146) - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım giderek anlatan yazı serisi.
         - ☕ [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2) - İleri RAG tekniklerini öğrenin ve uygulamasını görün.
+        - ☕ [(Part 1) Advanced Retrieval: Extract Metadata from Queries to Improve Retrieval](https://haystack.deepset.ai/blog/extracting-metadata-filter) - Metadata filtering, query decomposition gibi tekniklerle ileri seviye RAG uygulamaları geliştirmeyi anlatan yazı serisi
 
 + ### Fine Tuning
     + **📹 Video Tutorials**
@@ -205,7 +224,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 ### 🔧 Framework
 - [Transformers](https://huggingface.co/docs/transformers/index) - Hugging Face tarafından geliştirilen, NLP ve generative AI modellerini kolayca kullanmanızı sağlayan bir kütüphane.
 - [LangChain](https://python.langchain.com/docs/introduction/) - Büyük dil modelleri (LLM) ile çalışma ve uygulama geliştirme sürecini kolaylaştıran bir framework.
-- [Haystack](https://haystack.deepset.ai/) - NLP görevleri için güçlü bir arama altyapısı sunan ve metinden metne generative modelleri destekleyen bir framework.
+- [Haystack](https://haystack.deepset.ai/) - Büyük dil modellerini orkestre ederek farklı kullanım alanlarında (RAG, AI Agent'ları vs.) uygulama geliştirmenizi sağlayan açık kaynak bir framework.
 - [co:here](https://cohere.ai/) - Cohere, gelişmiş Büyük Dil Modelleri ve NLP araçlarına erişim sağlar.
 - [Ollama](https://github.com/ollama/ollama) - Büyük dil modellerini yerel olarak çalıştırmanızı sağlayan bir framework.
 - [DeepSpeed](https://www.deepspeed.ai/) - Microsoft tarafından geliştirilen, büyük modellerin daha verimli bir şekilde eğitilmesi ve kullanılması için optimize edilmiş bir deep learning optimizasyon kütüphanesi.
@@ -278,7 +297,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 
 ### 📹 Video Tutorials
-    - [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
+- [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
 
 </details>
 
@@ -305,17 +324,56 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-### [Kaan Bıçakçı](https://www.youtube.com/watch?v=pu5tuQshGoU)
+### [👻 Kaan Bıçakçı](https://www.youtube.com/watch?v=pu5tuQshGoU)
 
-### [Bilge Yücel](https://www.youtube.com/watch?v=UCpZJwb8UAY)
+**Books:**
+- ☕ **Probabilistic Machine Learning: An Introduction** - *Kevin Murphy* - Matematiği seviyorsanız ve ML'in temellerini öğrenmek istiyorsanız, güzel bir başlangıç. 
+
+- ☕☕ **Probabilistic Machine Learning: Advanced Topics** - *Kevin Murphy* - Matematiği seviyorsanız ve ML temeliniz varsa, bunu daha ileriye taşımak istiyorsanız göz atabilirsiniz. 
+
+**Reddit:**
+- [Leetcode](https://www.reddit.com/r/leetcode/) - FAANG mülakatları ile ilgili deneyimleri okuyabilirsiniz.
+
+- [Cscareerquestions](https://www.reddit.com/r/cscareerquestions/) - Genel CS ilgili soru-cevapların olduğu bir yer.
+
+- [MachineLearning](https://www.reddit.com/r/MachineLearning/) - Genel olarak ML ile ilgili ilginç başlıklar bulabilirsiniz.
+
+- [LocalLLaMa](https://www.reddit.com/r/LocalLLaMA/) - Yeni çıkan LLM'lerin yorumlarına ulaşabilirsiniz.
+
+- [EngineeringResumes](https://www.reddit.com/r/EngineeringResumes/) - CV değerlendirmeleri bulabilirsiniz.
+
+- [Programming](https://www.reddit.com/r/programming/) - Can sıkıntısında dolaşmak için :)
+
+**YouTube:**
+
+- ☕ [Ritvikmath](https://www.youtube.com/@ritvikmath) - Genel Data Science konseptlerini anlamak için güzel bir kanal. 
+
+- [3blue1brown](https://www.youtube.com/@3blue1brown) - Animasyonlu ilginç konu anlatımları bulabilirsiniz.
+
+
+### [🥑 Bilge Yücel](https://www.youtube.com/watch?v=UCpZJwb8UAY)
+* [DataTalks.Club](https://open.spotify.com/show/0pck8zuiXdI0OrCg86DAPy?si=4bb8b679e54d46c2) - Data alanında ünlü insanları konuk eden bir podcast
+* ☕ [AI News by Smol AI](https://buttondown.com/ainews) - Önde gelen araçlarının discord sunucularında, popüler subredditlerde, sosyal medyada olan AI ile alakalı haberleri derleyen günlük bülten
+* [Lu.Ma Istanbul](https://lu.ma/istanbul) - kommunity.com veya meetup gibi platformların alternatifi, AI/ML de dahil olmak üzere başka etkinlikleri de takip edebileceğiniz takvim
+ 
+
+### [🤗 Alara Dirik](https://www.youtube.com/watch?v=fGEApsNKKw0)
+- [Hype](https://hype.replicate.dev/) - Github, Hugging Face, Replicate ve Reddit'te trend olan ML projelerini günlük olarak sıralayan bir site :)
+- ☕☕ [AlphaSignal](https://alphasignal.ai/) - ML ürün ve araştırmalarından son haberleri almak için güzel bir haber bülteni 
+- [DataCamp](https://www.datacamp.com/) - Hem programlama hem veri bilimi, veri mühendisliği için kısa süreli kursları ve kendi online kod editörü olan bir site, ücretli ama uygun fiyatları var.
+- ☕ [Devpost](https://devpost.com/) - Global çaptaki hackathonlara ulaşabileceğiniz ve katılım sağlayabileceğiniz bir site
+
+### [Olgun Aydın](https://www.youtube.com/live/yhTxZr_bmDU)
+
+### [Eren Akbaba](https://www.youtube.com/watch?v=wusMEw9WOK4)
+
+### [Taner Sekmen](https://www.youtube.com/watch?v=63p7xIY_lgw)
 
 </details>
 
 ----
 
-
-<a href="https://discord.gg/gEfnhvcr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/Developer-MultiGroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/company/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://medium.com/developer-multicamp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://x.com/devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://discord.gg/gEfnhvcr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="32" height="32" /></a> <a href="https://github.com/Developer-MultiGroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/company/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="32" height="32" style="border-radius: 5px;" /></a> <a href="https://www.instagram.com/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" /></a> <a href="https://medium.com/developer-multicamp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="32" height="32" /></a> <a href="https://x.com/devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="32" height="32" /></a> </p>
 
 
 ## 🌟 Contributors
