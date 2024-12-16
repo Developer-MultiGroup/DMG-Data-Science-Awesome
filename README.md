@@ -51,9 +51,13 @@
 
 
 ### SQL 
+
 + **📹 Video Tutorials**
   
     - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)- SQL dilini sıfırdan başlayarak öğrenin.
+    - [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)- SQL bilginizi genişletin.
+    - [8 Best SQL Courses on Coursera You Must Know in 2025](https://www.mltut.com/best-sql-courses-on-coursera/)- SQL için en iyi 8 erişin.
+    - 
 
 ### Python
 
@@ -63,6 +67,7 @@
 
 ### 🔗 Useful Links
 
+- [SQL Cheatsheet](https://drive.google.com/file/d/1c0zYkqlpRqI0XzVntG5dZSTBZnUnY3pE/view?usp=drive_link) - SQL kavramlarına hızlıca göz atın.
 - [Learn SQL in stages](https://sqlzoo.net/wiki/SQL_Tutorial) - SQL bilginizi pratiklerle geliştirin.
 - [Hackerrank Python](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python) - Python'da algoritma pratiği yapın.
 - [Hackerrank SQL](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) - SQL'de pratik yapın.
