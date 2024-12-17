@@ -18,8 +18,8 @@
 > 👋 Kaynak arşivine katkı sağlamadan önce lütfen [Contribution Guide](./CONTRIBUTING.md)'a göz atınız.
 
 
-[![LinkedIn](https://img.shields.io/badge/Follow@devmultigroup-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devmultigroup) [![Twitter Follow](https://img.shields.io/twitter/follow/devmultigroup?style=social)](https://x.com/devmultigroup)
-
+[![LinkedIn](https://img.shields.io/badge/Follow@devmultigroup-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devmultigroup) [![Twitter Follow](https://img.shields.io/twitter/follow/devmultigroup?style=social)](https://x.com/devmultigroup) [![Share on X](https://img.shields.io/badge/Share_on-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
+[![Share on LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
 ### 🌟 Alanlar ve Sorumlu Kişiler
 
