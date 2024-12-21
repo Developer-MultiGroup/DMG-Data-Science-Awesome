@@ -213,7 +213,8 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
         -  [(Part 1) Build your own RAG with Mistral-7B and LangChain](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146) - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım giderek anlatan yazı serisi.
         - ☕ [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2) - İleri RAG tekniklerini öğrenin ve uygulamasını görün.
         - ☕ [(Part 1) Advanced Retrieval: Extract Metadata from Queries to Improve Retrieval](https://haystack.deepset.ai/blog/extracting-metadata-filter) - Metadata filtering, query decomposition gibi tekniklerle ileri seviye RAG uygulamaları geliştirmeyi anlatan yazı serisi
-
+        - [Build a Retrieval Augmented Generation (RAG) App: Part 1](https://python.langchain.com/docs/tutorials/rag/) - Kendi RAG uygulamanızı direkt olarak doküman üzerinden ilerleyerek oluşturabileceğiniz bir yazı serisi. Sadece part 1 ve 2 var. Direkt LangChain üzerinden erişebilirsiniz.
+      
 + ### Fine Tuning
     + **📹 Video Tutorials**
         - ☕ [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) - Lamini kullanarak LLM'lere nasıl ince ayar yapabileceğinizi öğrenin.
@@ -372,8 +373,11 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 ### [Eren Akbaba](https://www.youtube.com/watch?v=wusMEw9WOK4)
 
-### [Taner Sekmen](https://www.youtube.com/watch?v=63p7xIY_lgw)
-
+### [🚴🏽‍♂️ Taner Sekmen](https://www.youtube.com/watch?v=63p7xIY_lgw)
+- [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur/videos) - ML ve NLP konularında hands-on videoları içeren kanal
+- ☕ [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) - Data Science özelinde birçok teorik içeriği bulabileceğiniz kanal
+- ☕ [Yannic Kilcher](https://youtube.com/@YannicKilcher/) - ML alanında yayınlanan paperları inceleyip anlatımını yapan kanal
+- ☕ [Natural Language Processing with Transformers, Revised Edition](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) - NLP alanında hands-on içeriklerin yer aldığı tatlı bir kitap :)
 </details>
 
 ----
