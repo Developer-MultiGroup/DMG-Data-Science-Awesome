@@ -1,8 +1,8 @@
-# DMG Data Science Awesome 
+# DMG Data Science Awesome
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Developer-MultiGroup/DMG-Data-Science-Awesome.svg)](https://GitHub.com/Developer-MultiGroup/DMG-Data-Science-Awesome/pulls/)
 
-[![GitHub stars](https://img.shields.io/github/stars/Developer-MultiGroup/DMG-Data-Science-Awesome.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/Developer-MultiGroup/DMG-Data-Science-Awesome.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/network/) [![GitHub watchers](https://img.shields.io/github/watchers/Developer-MultiGroup/DMG-Data-Science-Awesome.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/watchers/)
-
+[![GitHub stars](https://img.shields.io/github/stars/Developer-MultiGroup/DMG-Data-Science-Awesome.svg?style=social&label=Star)](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/Developer-MultiGroup/DMG-Data-Science-Awesome.svg?style=social&label=Fork)](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome/network/) [![GitHub watchers](https://img.shields.io/github/watchers/Developer-MultiGroup/DMG-Data-Science-Awesome.svg?style=social&label=Watch)](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome/watchers/)
 
 ![DevMultiGroupBanner](/images/awesome.gif)
 
