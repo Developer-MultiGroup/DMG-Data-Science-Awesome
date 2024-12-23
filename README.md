@@ -196,6 +196,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 -  [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) - Anthropics kendi modelleri üzerinden anlattığı Prompt Engineering notebookları.
 - ☕ [A Tutorial on LLM](https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc) - Transformer mimarisinin nasıl çalıştığını ve GenAI için önemli kavramları öğrenin.
 - ☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kaynak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
+- ☕[ModernBERT](https://huggingface.co/blog/modernbert) - Modernleştirilmiş Bert mimarisini öğrenin.
 - ☕ [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) - Transformers modelleri nasıl metin üretiyor?
 - ☕ [Create a Swarm of Agents](https://haystack.deepset.ai/blog/swarm-of-agents) - OpenAI'ın Swarm konseptini başka modellerle (Llama, Antropic Claude vs.) nasıl yapılacağını anlatan bir blog yazısı
 - ☕☕ [LLM Workshop](https://github.com/rasbt/LLM-workshop-2024) - LLM temellerini notebooklar üzerinden detaylı bir şekilde öğrenin.
