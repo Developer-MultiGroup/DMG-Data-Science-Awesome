@@ -1,3 +1,7 @@
+## 📑 Paper List
+- [LLM Research Papers](https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list) - Sebastian Raschka paper list 2024.
+
+
 ## 🤖 GenerativeAI
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Query, Key, and Value are all you need* (*Also position embeddings, multiple heads, feed-forward layers, skip-connections, etc.)
