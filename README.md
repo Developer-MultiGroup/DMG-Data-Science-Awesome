@@ -88,6 +88,7 @@
 
 - [Veri Defteri](https://veridefteri.com/) - Veri Biliminin bir çok konusu hakkında hem blog hem video tutorialları olan websitesi.
 - [Yapay Zekâ Araştırma İnisiyatifi](https://yz-ai.github.io/kaynaklar/) - Derin öğrenme konusunda birçok iyi kaynağın çevrilmiş hallerinin derlendiği websitesi. 
+- [Data Science Roadmap](https://roadmap.sh/ai-data-scientist) - Veri bilimi için temel öğrenilmesi gereken konseptleri gösteren akış diyagramı.
 
 ### Introduction to Data Science
 
@@ -181,6 +182,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [https://research.aimultiple.com/generative-ai-applications/](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
 - [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook) - Farklı araçlar kullanılarak yapılmış çeşitli GenAI uygulama örnekleri bulabileceğiniz bir repo.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Promt engineering temellerini detaylı bir şekilde öğrenin.
+- ☕ [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Birçok farklı konsteptte agent notebookunu barındıran repo.
 - ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paperların torch tabanlı implemanstasyonlarını içeren websitesi.
   
 ### 📹 Video Tutorials
