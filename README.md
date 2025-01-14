@@ -381,6 +381,14 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - ☕ [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) - Data Science özelinde birçok teorik içeriği bulabileceğiniz kanal
 - ☕ [Yannic Kilcher](https://youtube.com/@YannicKilcher/) - ML alanında yayınlanan paperları inceleyip anlatımını yapan kanal
 - ☕ [Natural Language Processing with Transformers, Revised Edition](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) - NLP alanında hands-on içeriklerin yer aldığı tatlı bir kitap :)
+
+
+### [Murat Şahin](https://www.youtube.com/watch?v=phQgJmz0KU4&t=2049s)
+
+
+### [Göker Güner](https://www.youtube.com/watch?v=kTR9E1ahVcc)
+
+
 </details>
 
 ----
