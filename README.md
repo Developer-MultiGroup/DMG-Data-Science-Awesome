@@ -321,13 +321,30 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-### AWS
+## MLOps
 
-- [AWS Bedrock Samples](https://github.com/aws-samples/amazon-bedrock-samples) - AWS Bedrock örneklerini içeren repo.
+### Courses
+
+- [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - DataTalksClub isimli topluluğun MLOps Zoocamp'i. Self-paced, ama dönem dönem online canlı derslerle dünyanın her yerinden katılımcılarla da senkron bir şekilde ödevli takipli alabiliyorsunuz kursu. Aynı repodan topluluğun web sitesine gidip diğer kursları inceleyebilir ve topluluğa özel kanallara da katılabilirsiniz.
+
+### Blogs
+
+- [Marvelous MLOps](https://marvelousmlops.substack.com/) - MLOps'a dair takip edilesi bir blog, aynı isimli bir Linkedin sayfaları da var, orada daha aktifler. 
+
+### Video Tutorials
+
+- [TechWorld With Nana](https://www.youtube.com/@TechWorldwithNana/courses) - Devops bilmeden MLOps eksik kalır, bu Youtube kanalı devops için bulabileceğimiz en iyi kaynaklardan.
+
+## Cloud
+
+### Blogs
+
+- ☕☕[Google Vertex AI](https://cloud.google.com/vertex-ai) - Google'ın AI platformu Vertex AI'ın dokümanı. Cloud'a dair pek çok doküman&kaynak bulunabilir elbette ama öğrenmenin en iyi yolu kesinlikle orjinal dokümanları incelemek.
+
+- ☕☕[AWS Bedrock Samples](https://github.com/aws-samples/amazon-bedrock-samples) - AWS Bedrock örneklerini içeren repo.
+
 
 </details>
-
-
 
 <a name="datacommit"></a>
 ## ✨ DataCommit
