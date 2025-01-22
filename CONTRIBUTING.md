@@ -49,7 +49,8 @@ root
 
 # Dikkat edilmesi gerekenler
 - Eklediğiniz her kaynağı ilgili kategori veya markdown dosyasının altında bulunmalıdır.
-- Paylaştığınız kaynak, kitap veya kurs için açıklama ekleyiniz.
+- Paylaştığınız kaynak, kitap veya kurs için kısa bir açıklama ekleyiniz.
+- Kaynağın seviyesini maksiumum ☕☕ emojisi ile belirtebilirsiniz.  
 - Yaptığınız değişikliği aşağıdaki gibi isimlendirmeye dikkat ediniz:
   - feature/değişiklik_adı -> yeni bir özellik
   - fix/değişiklik_adı -> düzenleme
