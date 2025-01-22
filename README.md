@@ -179,6 +179,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [ Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard) - LLM'lerin değerlendirilmesi ve topluluk desteği ile sıralanması ile oluşan liderlik tablosu.
 - [LLMOps Database](https://www.zenml.io/llmops-database) - Gerçek dünya senaryolarında LLM'lerin nasıl kullanıldığını ayrıntılı bir şekilde görebileceğiniz web sitesi.
 - [ML and LLM system design](https://www.evidentlyai.com/ml-system-design) - ML ve LLM için oluşturulmuş 500+ case study.
+- [LLM Nasıl Çalışır?](https://llm-viz-tr.vercel.app/) - LLM'lerin nasıl çalıştığını interaktif bir şekilde anlatan web sitesi.
 - [https://research.aimultiple.com/generative-ai-applications/](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
 - [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook) - Farklı araçlar kullanılarak yapılmış çeşitli GenAI uygulama örnekleri bulabileceğiniz bir repo.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Promt engineering temellerini detaylı bir şekilde öğrenin.
@@ -213,7 +214,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
         -  [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - LangChain kullanarak LLM'lerin kullanım alanlarını genişletmeyi ve güçlü LLM uygulamaları oluşturmayı öğrenin.
 
     + **📖 Blog Tutorials**
-        - ☕ [Learn RAG with Langchain 🦜⛓️‍💥](https://www.sakunaharinda.xyz/ragatouille-book/intro.html) - Langchain ile RAG yapmayı öğrenin.
+        - ☕ [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - Farklı RAG tekniklerini gösteren repo.
         - [Creating Your First QA Pipeline with Retrieval-Augmentation](https://haystack.deepset.ai/tutorials/27_first_rag_pipeline) - Haystack ile ilk RAG uygulamanızı geliştirin
         -  [(Part 1) Build your own RAG with Mistral-7B and LangChain](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146) - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım giderek anlatan yazı serisi.
         - ☕ [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2) - İleri RAG tekniklerini öğrenin ve uygulamasını görün.
