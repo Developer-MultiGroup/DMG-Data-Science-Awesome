@@ -406,8 +406,30 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 ### [Murat Şahin](https://www.youtube.com/watch?v=phQgJmz0KU4&t=2049s)
 
 
-### [Göker Güner](https://www.youtube.com/watch?v=kTR9E1ahVcc)
+### [🦉 Göker Güner](https://www.youtube.com/watch?v=kTR9E1ahVcc)
+ 
+- [Kaggle](https://www.kaggle.com/) - Kariyer başlangıcı için öncelikle hangi veri alanında çalışmak istediğimize karar vermemiz gerekiyor demiştik. Veri tiplerini ve yapabileceklerimizi tanımak için.
 
+- [Huggingface](https://huggingface.co/) - Kaggle'a biraz aşina olduktan sonra Generative AI alanında da güncel kalmak, elimizi kirletmek için.
+
+- [Türkiye Yapay Zeka İnsiyatifi](https://turkiye.ai/girisimler/) - Kariyerimizin ilk İş/Staj deneyimi için çok faydasını gördüğüm, kendinizi geliştirmenin en iyi yollarından biri olarak startup deneyimi edinebileceğiniz şirketleri listeleyen platform.
+
+- [Feeder](https://feeder.co) - Teknoloji şirketlerinin bloglarını derli toplu takip etmek için kullandığım RSS Feeder uygulaması.
+
+- [Twitter AI listem](https://x.com/i/lists/1710754799686136290) - Sosyal medyayı iyi kullanmak için Medium, Linkedin platformlarının yanı sıra X'i de verimli kullanabileceğimizden bahsettik. Yapay Zeka için bir X listem var. Bu listeyi takip ettikten sonra "Listeler" bölümüne gelip sağındaki raptiye sembolüne tıklayarak listeyi sabitleyebilir, ana sayfanızda "Sana Özel" ve "Takip Edilenler" akışlarının sağında bu listenin tweetlerini de ayrı bir akış olarak görebilirsiniz. Ara ara kendi beğenilerime, ilgilerime göre güncelliyorum bu listeyi.
+
+- [DataTalks.Club](https://datatalks.club/) - MLOps alanını biraz tanımak için Alexey Grigorev'in DataTalksClub topluluğunu ve MLOps Zoomcamp'ini tavsiye ediyorum.
+
+- [Perplexity](https://www.perplexity.ai/) & [Cursor](https://www.cursor.com/) - Arama motoru olarak Perplexity'nin free sürümünü, kod asistanı olarak da aktif kullanmasam da Cursor'u tavsiye edebilirim.
+
+#### Takip ettiğim, Yapay Zeka alanında mail bülteni sunan platformlar
+- [OpenTools](https://newsletter.opentools.ai) 
+- [AlphaSignal](https://alphasignal.ai) 
+- [ProductHunt](https://www.producthunt.com) 
+- [AIBreakfast](https://aibreakfast.beehiiv.com) 
+- [The Rundown AI](https://www.therundown.ai) 
+- [Generative AI Daily Newsletter](https://newsletter.genai.works) 
+- [Turing Post](https://www.turingpost.com) 
 
 </details>
 
