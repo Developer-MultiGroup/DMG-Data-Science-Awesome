@@ -442,4 +442,4 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 [![awesome contributors](https://contrib.rocks/image?repo=Developer-MultiGroup/DMG-Data-Science-Awesome)](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Developer-MultiGroup/DMG-Data-Science-Awesome&type=Timeline)](https://star-history.com/#Developer-MultiGroup/DMG-Data-Science-Awesome)
+[![Star History Chart](https://api.star-history.com/svg?repos=Developer-MultiGroup/DMG-Data-Science-Awesome&type=Date)](https://star-history.com/#Developer-MultiGroup/DMG-Data-Science-Awesome&Date)
