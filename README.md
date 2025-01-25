@@ -183,9 +183,8 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [https://research.aimultiple.com/generative-ai-applications/](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
 - [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook) - Farklı araçlar kullanılarak yapılmış çeşitli GenAI uygulama örnekleri bulabileceğiniz bir repo.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Promt engineering temellerini detaylı bir şekilde öğrenin.
-- ☕ [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Birçok farklı konsteptte agent notebookunu barındıran repo.
+- ☕ [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Birçok farklı konsteptte agent notebookunu başlangıçtan ileri seviyeye doğru anlatan repo.
 - ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paperların torch tabanlı implemanstasyonlarını içeren websitesi.
-- [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Temelden ileri seviyeye GenAI uygulamalarını anlatan repo.
 - [LLM Engineers Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - Başlangıç seviyesinden deploy almaya kadar giden LLM ve RAG uygulamalarınızı AWS içerisinde deploylamayı gösteren repo ve kitap.
   
 ### 📹 Video Tutorials
@@ -251,8 +250,9 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 ### Models
 - [OpenAI](https://openai.com/api/) - OpenAI'nin API'si, çeşitli doğal dil görevlerini yerine getiren GPT-3 ve GPT-4 modellerine ve doğal dili koda çeviren Codex'e erişim sağlar.
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - Meta tarafından geliştirilen, 65 milyar parametreli temel bir büyük dil modeli.
+- [deepseek](https://www.deepseek.com/) - Açık kaynak olarak geliştirilen, oldukça başarılı yanıtlar üreten LLM.
 - [Claude](https://claude.ai/) - Anthropic tarafından geliştirilen bir yapay zeka asistanı olan Claude ile konuşun.
-- [Mixtral](https://mistral.ai/news/mixtral-of-experts/) - Açık ağırlıklara sahip yüksek kaliteli, seyrek bir uzmanlar karışımı modeli. 
+- [Mixtral](https://mistral.ai/news/mixtral-of-experts/) - Açık ağırlıklara sahip "sparse mixture of experts" mimarisiyle yüksek kaliteli ve verimli doğal dil işleme çözümleri sunan bir model.
 - [Grok](https://grok.x.ai/) - xAI tarafından geliştirilen ve [açık kaynak](https://github.com/xai-org/grok-1) ve açık ağırlıklara sahip bir büyük dil modeli. 
 
 + **🛠️ Coding Assistants**
