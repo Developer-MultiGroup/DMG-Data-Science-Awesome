@@ -185,6 +185,8 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Promt engineering temellerini detaylı bir şekilde öğrenin.
 - ☕ [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Birçok farklı konsteptte agent notebookunu barındıran repo.
 - ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paperların torch tabanlı implemanstasyonlarını içeren websitesi.
+- [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Temelden ileri seviyeye GenAI uygulamalarını anlatan repo.
+- [LLM Engineers Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - Başlangıç seviyesinden deploy almaya kadar giden LLM ve RAG uygulamalarınızı AWS içerisinde deploylamayı gösteren repo ve kitap.
   
 ### 📹 Video Tutorials
 -  [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
@@ -242,6 +244,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [DeepSpeed](https://www.deepspeed.ai/) - Microsoft tarafından geliştirilen, büyük modellerin daha verimli bir şekilde eğitilmesi ve kullanılması için optimize edilmiş bir deep learning optimizasyon kütüphanesi.
 - [Alpaca-LoRA](https://github.com/tloen/alpaca-lora) - LLaMA tabanlı modeller üzerinde düşük kaynakla hızlı ince ayar (fine-tuning) yapmayı sağlayan bir framework.
 - [Fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI tarafından geliştirilen, çeşitli NLP ve sıralı modelleme görevleri için kullanılan bir framework.
+- [Letta](https://github.com/letta-ai/letta) - Eskiden MemGPT iken şu an isim değiştirilerek sunulan yeni bir framework.
 
 
 
