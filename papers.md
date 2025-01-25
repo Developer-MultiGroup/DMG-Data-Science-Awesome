@@ -2,6 +2,7 @@
 - [LLM Research Papers](https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list) - Sebastian Raschka paper list 2024.
 - [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) - Ilya Sutskever'in önerdiği makaleler.
 - [List of 27 papers](https://punkx.org/jackdoe/30.html) - Eğer bu listeyi okursanız AI'daki en önemli olan %90'lık kısmı öğreneceksiniz :D
+- [The 2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers) - AI Engineer olmak için okunması gereken paperlar ve bloglar.
 
 ## 🤖 GenerativeAI
 
