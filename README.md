@@ -310,9 +310,36 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
+### 📖 Blog Tutorials
+- [What Is Computer Vision? An Introduction to AI’s Visual Understanding](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) - Bilgisayar Görüşü nedir? Temel bir giriş.
+- [How Computers “See” Images](https://medium.com/@Coursesteach/computer-vision-part-7-4e50b0e8b653) - Bilgisayarların görsel veriyi nasıl işlediğine dair bir makale.
+
 
 ### 📹 Video Tutorials
+- [What is Pixel? (TechUpbeat)](https://www.youtube.com/watch?v=wsFROq2jVSQ) - Piksel nedir? Piksel temel bilgileri.
+- [RGB and Pixel Range Basics](https://www.youtube.com/watch?v=YsonLUQ-rTU) - Piksel aralığı ve RGB temel bilgileri.
 - [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
+
+
+### 🛠️ OpenCV
+- [OpenCV Kitap (Mesut Piskin)](https://mesutpiskin.com/blog/wp-content/uploads/2017/01/OpenCV%20Kitap.pdf) - Türkçe bir OpenCV kitabı.
+- [How to Install OpenCV for Python (Geeky Script)](https://www.youtube.com/watch?v=LRyoSwgLkH4) - Python için OpenCV'nin nasıl kurulacağını gösteren bir video.
+- [OpenCV Kılavuzu (GitHub)](https://github.com/HCUx/goruntu-isleme-kilavuzu) - OpenCV ile görüntü işleme rehberi.
+- [OpenCV Python Tutorial](https://www.geeksforgeeks.org/opencv-python-tutorial) - OpenCV için başlangıç rehberi.
+- [Basit Örnek Uygulamalar](https://istdatascience.com/opencv-ile-goruntu-iyilestirme-teknikleri-ornek-uygulamalar) - OpenCV ile görüntü iyileştirme teknikleri.
+- [Simple Object Tracking with OpenCV (PyImageSearch)](https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv) - Basit nesne takibi örnekleri.
+- [Moving Object Detection with OpenCV](https://learnopencv.com/moving-object-detection-with-opencv/) - Hareketli nesne tespiti için OpenCV örnekleri.
+
+### 📦 Object Detection
+- [Convolutional Neural Networks (CNN) - Melike Demirel](https://medium.com/@gkdemrmelike/evri%C5%9Fimsel-sinir-a%C4%9Flar%C4%B1-convolutional-neural-network-18a05f54bdb6) - CNN hakkında temel bilgiler.
+- [CNN Object Detection Playlist](https://www.youtube.com/playlist?list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs) - CNN ile nesne tespiti için eğitim serisi.
+- [Introduction to Object Detection](https://medium.com/@kattarajesh2001/object-detection-part-1-introduction-to-object-detection-321f1fd56295) - Nesne tespitine giriş.
+- [Two-Stage Detectors (R-CNN, Fast R-CNN, Faster R-CNN)](https://medium.com/@kattarajesh2001/object-detection-part-2-two-stage-detectors-r-cnn-fast-r-cnn-faster-r-cnn-026e5fac5dd0) - İki aşamalı nesne tespit yöntemleri.
+- [One-Stage Detectors: YOLO](https://medium.com/@kattarajesh2001/object-detection-part-3-one-stage-detectors-yolo-a4a6b4dd2d33) - YOLO yöntemi ile nesne tespiti.
+- [Top Object Detection Models in 2025](https://www.hitechbpo.com/blog/top-object-detection-models.php) - Güncel nesne tespiti modelleri.
+- [YOLO Explained: From v1 to v11](https://viso.ai/computer-vision/yolo-explained/) - YOLO'nun farklı sürümlerinin açıklaması.
+- [YOLOv8 Tutorials](https://www.youtube.com/playlist?list=PLZCA39VpuaZZ1cjH4vEIdXIb0dCpZs3Y5) - YOLOv8 için eğitim serisi.
+
 
 </details>
 
