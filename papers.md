@@ -29,3 +29,9 @@
 - [Emergence of Language with Multi-agent Games](https://proceedings.neurips.cc/paper_files/paper/2017/file/70222949cc0db89ab32c9969754d4758-Paper.pdf): Self-play and reward signals are all you need* (*Also emergent communication protocols)
 
 - [Skip Thought Vectors](https://arxiv.org/abs/1506.06726): Sentence encoders trained on book sequences are all you need* (*Also, encoder-decoder architecture trained on continuous text)
+
+## 🤖 AI Agents
+
+- [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MagenticOne.pdf): A generalist multi-agent system is all you need (Also, AutoGenBench for rigorous agentic evaluation)
+- [Agents from Google](https://www.unidigital.news/wp-content/uploads/2025/01/Newwhitepaper_Agents2.pdf): Generative AI agents are all you need (Tools, orchestration layers, and cognitive architectures)
+- [Agent-Oriented Planning In Multi-Agent Systems](https://arxiv.org/pdf/2410.02189): Agent-Oriented Planning is All You Need (Also, fast decomposition, reward models, and feedback loops)
