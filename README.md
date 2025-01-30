@@ -57,7 +57,6 @@
     - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)- SQL dilini sıfırdan başlayarak öğrenin.
     - [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)- SQL bilginizi genişletin.
     - [8 Best SQL Courses on Coursera You Must Know in 2025](https://www.mltut.com/best-sql-courses-on-coursera/)- SQL için en iyi 8 erişin.
-    - 
 
 ### Python
 
