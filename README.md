@@ -298,6 +298,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
+- [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) - Deep learning için Pytorch'u kapsamlı bir şekilde öğrenin.
 - ☕☕ [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) - Pytorch'un nasıl çalıştığını öğrenin.
 
 </details>
