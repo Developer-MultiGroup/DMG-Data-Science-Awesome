@@ -191,6 +191,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 -  [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
 -  [Building AI Applications with Haystack (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) - Haystack kullanarak farklı GenAI uygulamaları geliştirmeyi öğrenin.
 -  [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) - Google Cloud ile GenAI-LLM temellerini öğrenin.
+-  [RAG & Agents](https://www.youtube.com/playlist?list=PL0cq-CiC5Qht17CmxgQDotcT-mlOulxqg) - RAG ve Agentların temellerini Prof. Tom Yeh'ten öğrenin.
 -  ☕ [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Multi Agent sistemlerin temellerini CrewAI ile öğrenin.
 -  ☕☕ [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/) - Çeşitli AI Agent senaryolarını Crew AI üzerinden deneyimleyin.
 
