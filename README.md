@@ -49,22 +49,6 @@
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-
-### SQL 
-
-+ **📹 Video Tutorials**
-  
-    - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)- SQL dilini sıfırdan başlayarak öğrenin.
-    - [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)- SQL bilginizi genişletin.
-    - [8 Best SQL Courses on Coursera You Must Know in 2025](https://www.mltut.com/best-sql-courses-on-coursera/)- SQL için en iyi 8 erişin.
-    - 
-
-### Python
-
-- [Yazbel Belgeleri](https://python-istihza.yazbel.com/index.html) - Python dilini Türkçe olarak detaylı bir şekilde öğrenin.
-- [CS50 Python](https://cs50.harvard.edu/python/2022/) - Harvard'ın ünlü CS50 dersinin Python için özel versiyonu.
-- [30 Days of Python](https://dev.to/arindamdawn/series/7425) - 30 günde Python öğrenin.
-
 ### 🔗 Useful Links
 
 - [SQL Cheatsheet](https://drive.google.com/file/d/1c0zYkqlpRqI0XzVntG5dZSTBZnUnY3pE/view?usp=drive_link) - SQL kavramlarına hızlıca göz atın.
@@ -73,6 +57,21 @@
 - [Hackerrank SQL](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) - SQL'de pratik yapın.
 - [NeetCode Data Structures](https://neetcode.io/practice) - Veri yapıları konusunda pratik yapın.
 - [algoleague](https://algoleague.com/) - Çeşitli dillerde algoritma sorularını çözebileceğiniz ve yarışmalara katılabileceğiniz yerli platform.
+- [Grind 75 questions](https://www.techinterviewhandbook.org/grind75/?weeks=8&hours=8) - Planlı bir şekilde algoritma mülakatlarındaki ana konsteptleri halledin.
+
+
+### SQL 
+  
+  - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)- SQL dilini sıfırdan başlayarak öğrenin.
+  - [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)- SQL bilginizi genişletin.
+  - [SQL Tutorial](https://www.w3schools.com/sql/default.asp)- Adım adım SQL öğrenin.
+
+### Python
+
+- [Yazbel Belgeleri](https://python-istihza.yazbel.com/index.html) - Python dilini Türkçe olarak detaylı bir şekilde öğrenin.
+- [CS50 Python](https://cs50.harvard.edu/python/2022/) - Harvard'ın ünlü CS50 dersinin Python için özel versiyonu.
+- [30 Days of Python](https://dev.to/arindamdawn/series/7425) - 30 günde Python öğrenin.
+- [Code. Simply. Clearly. Calmly.](https://calmcode.io/) - Python'daki birçok temel konsepti kısa ve öz videolar üzerinden öğrenin.
 
 </details>
 
@@ -183,6 +182,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [https://research.aimultiple.com/generative-ai-applications/](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
 - [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook) - Farklı araçlar kullanılarak yapılmış çeşitli GenAI uygulama örnekleri bulabileceğiniz bir repo.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Promt engineering temellerini detaylı bir şekilde öğrenin.
+- ☕ [LLM Course](https://github.com/mlabonne/llm-course) - LLM'leri notebooklar üzerinden detaylı anlatan repo. 
 - ☕ [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Birçok farklı konsteptte agent notebookunu başlangıçtan ileri seviyeye doğru anlatan repo.
 - ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paperların torch tabanlı implemanstasyonlarını içeren websitesi.
 - [LLM Engineers Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - Başlangıç seviyesinden deploy almaya kadar giden LLM ve RAG uygulamalarınızı AWS içerisinde deploylamayı gösteren repo ve kitap.
@@ -192,7 +192,8 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 -  [Building AI Applications with Haystack (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) - Haystack kullanarak farklı GenAI uygulamaları geliştirmeyi öğrenin.
 -  [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) - Google Cloud ile GenAI-LLM temellerini öğrenin.
 -  [RAG & Agents](https://www.youtube.com/playlist?list=PL0cq-CiC5Qht17CmxgQDotcT-mlOulxqg) - RAG ve Agentların temellerini Prof. Tom Yeh'ten öğrenin.
--  ☕[Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) - Karpathy ile LLM'lerin temellerine derin bir dalış yapın. 
+-  ☕ [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) - Karpathy ile LLM'lerin temellerine derin bir dalış yapın.
+-  [GenAI wit Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) - Gradio ile GenAI uygulamalarının nasıl deploy edileceğini öğrenin.
 -  ☕ [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Multi Agent sistemlerin temellerini CrewAI ile öğrenin.
 -  ☕☕ [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/) - Çeşitli AI Agent senaryolarını Crew AI üzerinden deneyimleyin.
 
@@ -208,6 +209,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - ☕ [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) - Transformers modelleri nasıl metin üretiyor?
 - ☕ [Create a Swarm of Agents](https://haystack.deepset.ai/blog/swarm-of-agents) - OpenAI'ın Swarm konseptini başka modellerle (Llama, Antropic Claude vs.) nasıl yapılacağını anlatan bir blog yazısı
 - ☕☕ [LLM Workshop](https://github.com/rasbt/LLM-workshop-2024) - LLM temellerini notebooklar üzerinden detaylı bir şekilde öğrenin.
+- ☕☕ [Transformers From Scratch](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html) - Sıfırdan Transformers mimarisini öğrenin.
 - ☕☕ [Llama 3 from Scratch](https://github.com/naklecha/llama3-from-scratch/blob/main/llama3-from-scratch.ipynb) - Llama 3 modelini sıfırdan implemente eden eğlenceli bir notebook.
 
 + ### RAG
@@ -246,7 +248,6 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [Alpaca-LoRA](https://github.com/tloen/alpaca-lora) - LLaMA tabanlı modeller üzerinde düşük kaynakla hızlı ince ayar (fine-tuning) yapmayı sağlayan bir framework.
 - [Fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI tarafından geliştirilen, çeşitli NLP ve sıralı modelleme görevleri için kullanılan bir framework.
 - [Letta](https://github.com/letta-ai/letta) - Eskiden MemGPT iken şu an isim değiştirilerek sunulan yeni bir framework.
-
 
 
 ### Models
