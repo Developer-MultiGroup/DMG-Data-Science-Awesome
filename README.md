@@ -10,7 +10,7 @@
 
 ![aiconf](/images/datacommit.png)
 
-**Online serimiz olan "DataCommit" etkinliğimize katılın. Data expertler ile soru-cevap fırsatını yakalayın. Herkes davetlidir.  Ücretsiz biletler için :point_right: [DataCommit](https://kommunity.com/devmultigroup/events/datacommit-series-d244edf8)**
+**Online serimiz olan "DataCommit" etkinliğimize katılın. Data expertler ile soru-cevap fırsatını yakalayın. Herkes davetlidir. Geçmiş etkinlik kayıtları için :point_right: [DataCommit](https://www.youtube.com/playlist?list=PLQvJkakaBRKcsi8mySTkgLvnrz0dSyIRF)**
 
 #### **📌 DataCommit Kaynaklar**
  **DataCommit'te önerilen kaynaklara erişmek için :point_right: [DataCommit](#datacommit)** 
