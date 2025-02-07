@@ -154,14 +154,10 @@
 <a name="data-books"></a>
 ## 📚Data Books
 
-**[`^        back to top        ^`](#dmg-data-science-awesome)**
-
 Data alanında yazılmış yerli ve yabancı kitapların listesini görmek için [tıklayınız](books.md).
 
 <a name="data-papers"></a>
 ## 📰Data Papers
-
-**[`^        back to top        ^`](#dmg-data-science-awesome)**
 
 Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için [tıklayınız](papers.md).
 
