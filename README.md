@@ -136,6 +136,8 @@
 - [What is Overfitting?](https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/): Overfitting kavramını ve kaçınmanın yollarını öğrenin. 
 - [Scikit Learn Official Document](https://scikit-learn.org/stable/index.html): Temel algoritmalar, preprocess yöntemleri, model başarı ölçümlemeleri gibi Machine Learning'e ait neredeyse bütün konseptler için Python dilinde kullanabileceğiniz scikit-learn'ün resmi dokümantasyonu.
 - [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics) - Makine öğrenmesi algoritmalarının hem teorisini hem pratiğini notebooklar üzerinden adım adım implemantasyonuyla birlikte veren repo.
+- ☕☕[PapersWithCode](https://paperswithcode.com/) - ML/AI Scientist rollerinde yeni çıkan paperları takip etmek ve elbette bunları hızlıca deneyip çalıştığınız şirket adına işe yararlılığını ölçmek önem taşıyor. Paperswithcode, yeni çıkan paper'ları kodlarıyla birlikte sunuyor.
+- [AIPaper.Dev](https://aipaper.dev/daily) - Alanlarına ayrılmış bir biçimde paperları burada derli toplu görebilirsiniz. Her paper, onu okuyabileceğiniz bir arxiv bağlantısı da içeriyor. Aylık 2$ karşılığında paper özeti gibi ek özelliklere de erişebiliyorsunuz.
 
 ### 📹 Video Tutorials
 
@@ -297,8 +299,18 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
+## Blogs
+
 - [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) - Deep learning için Pytorch'u kapsamlı bir şekilde öğrenin.
 - ☕☕ [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) - Pytorch'un nasıl çalıştığını öğrenin.
+
+## Frameworks
+
+Derin Öğrenme'nin üç büyük framework'ünün linkleri. Önce Tensorflow veya Pytorch, daha sonra da Jax kurcalanarak devam edilebilir. Her birinin kaynakları, blogları, demoları santim santim takip edildiğinde oldukça öğretici.
+
+- [Tensorflow](https://www.tensorflow.org/)
+- [Pytorch](https://pytorch.org/)
+- [Jax](https://docs.jax.dev/en/latest/)
 
 </details>
 
@@ -324,28 +336,46 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-## MLOps
-
-### Courses
+## Courses
 
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - DataTalksClub isimli topluluğun MLOps Zoocamp'i. Self-paced, ama dönem dönem online canlı derslerle dünyanın her yerinden katılımcılarla da senkron bir şekilde ödevli takipli alabiliyorsunuz kursu. Aynı repodan topluluğun web sitesine gidip diğer kursları inceleyebilir ve topluluğa özel kanallara da katılabilirsiniz.
 
-### Blogs
+- [MLOps Roadmap](https://roadmap.sh/mlops) - Roadmap.sh, teknolojinin pek çok alanı ile ilgili oldukça detaylı, takip etmesi belki bir yılı bulabilecek dolu dolu roadmapler sunuyor, MLOps roadmapi de bunlardan biri.
+
+## Blogs
 
 - [Marvelous MLOps](https://marvelousmlops.substack.com/) - MLOps'a dair takip edilesi bir blog, aynı isimli bir Linkedin sayfaları da var, orada daha aktifler. 
-
-### Video Tutorials
-
-- [TechWorld With Nana](https://www.youtube.com/@TechWorldwithNana/courses) - Devops bilmeden MLOps eksik kalır, bu Youtube kanalı devops için bulabileceğimiz en iyi kaynaklardan.
-
-## Cloud
-
-### Blogs
 
 - ☕☕[Google Vertex AI](https://cloud.google.com/vertex-ai) - Google'ın AI platformu Vertex AI'ın dokümanı. Cloud'a dair pek çok doküman&kaynak bulunabilir elbette ama öğrenmenin en iyi yolu kesinlikle orjinal dokümanları incelemek.
 
 - ☕☕[AWS Bedrock Samples](https://github.com/aws-samples/amazon-bedrock-samples) - AWS Bedrock örneklerini içeren repo.
 
+- ☕[Google Cloud Docs](https://cloud.google.com/docs) Google'ın cloud altyapsına dair, konularına ayrılmış kendi dokümanları. Google, ilk hesap açılışında 300 dolarlık bedava kredi de sunuyor.
+
+## Video Tutorials
+
+- [TechWorld With Nana](https://www.youtube.com/@TechWorldwithNana/courses) - Devops bilmeden MLOps eksik kalır, bu Youtube kanalı devops için bulabileceğimiz en iyi kaynaklardan.
+
+- [Cloud Türkiye AWS Talks Youtube Serisi](https://www.youtube.com/watch?v=2pbDSwiFYO4&list=PLdEVi-7f6Ie9WJH_ySLOVU8ODZS94Hm2C) - Cloud Türkiye Topluluğu'nun AWS üzerine konuştuğu Youtube serisi.
+
+- [Ayti Tech Azure Youtube Serisi](https://www.youtube.com/watch?v=W1cp3qEAC1M&list=PLm8ggkC19szAggb3smwNleuitkHSInf8i) - Ayti Tech Youtube kanalında Özgür Öztürk'ün hap bilgiler içeren Azure serisi.
+
+- [Freecodecamp Docker&Kubernetes Fundamentals](https://www.youtube.com/watch?v=kTp5xUtcalw) - Freecodecamp'ten yaklaşık 6 saatlik harika bir Docker&Kubernetes giriş kursu.
+
+## Tools
+
+Bu kadar eğitim, kurs, bilgi vs. elini kirletmeden bir değer taşımıyor. Demolar yapıp bunları yayınlamanızı sağlayabilecek, her birine en az bir, belki birkaç haftasonu ayırabileceğiniz deployment toolları:
+
+- [Streamlit](https://streamlit.io/)
+- [Vercel](https://vercel.com/)
+- [Gradio](https://www.gradio.app/)
+
+Bir diğer önemli konu da uçtan uca pipeline tasarlayabilmek. Bunlar da elbette pratikle olabilecek şeyler. MLOps süreçleri konusunda da oldukça yeterli sayıda open source toollar var.
+
+- [MLFlow](https://mlflow.org/)
+- [Kubeflow](https://www.kubeflow.org/)
+- [ClearML](https://clear.ml/docs/latest/)
+- [ZenML](https://docs.zenml.io/)
 
 </details>
 
