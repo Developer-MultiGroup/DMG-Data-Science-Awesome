@@ -469,6 +469,13 @@ Bir diğer önemli konu da uçtan uca pipeline tasarlayabilmek. Bunlar da elbett
 
 ----
 
+## ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
+
+
+Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak siz de [Stargazers](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome/stargazers)'ların arasına katılıp bizi buna benzer kaynak paylaşımları yapmaya motive edebilirsiniz.⭐
+
+Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksikse veya düzeltilmesi gerekiyorsa lütfen ilgili kişilere ulaşarak bunu bildirin ve en kısa sürede düzenlememize katkıda bulunmuş olun 👍🏻 Bu ve benceri içerikler için bize takip etmeyi unutmayın 👇🏼
+
 <p align="left"> <a href="https://discord.gg/gEfnhvcr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="32" height="32" /></a> <a href="https://github.com/Developer-MultiGroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/company/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="32" height="32" style="border-radius: 5px;" /></a> <a href="https://www.instagram.com/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" /></a> <a href="https://medium.com/developer-multicamp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="32" height="32" /></a> <a href="https://x.com/devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="32" height="32" /></a> </p>
 
 
