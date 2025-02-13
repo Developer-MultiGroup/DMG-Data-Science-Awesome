@@ -467,8 +467,6 @@ Bir diğer önemli konu da uçtan uca pipeline tasarlayabilmek. Bunlar da elbett
 
 </details>
 
-----
-
 ## ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
 
 
