@@ -192,6 +192,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 -  [Building AI Applications with Haystack (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) - Haystack kullanarak farklı GenAI uygulamaları geliştirmeyi öğrenin.
 -  [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) - Google Cloud ile GenAI-LLM temellerini öğrenin.
 -  [RAG & Agents](https://www.youtube.com/playlist?list=PL0cq-CiC5Qht17CmxgQDotcT-mlOulxqg) - RAG ve Agentların temellerini Prof. Tom Yeh'ten öğrenin.
+-  [LangChain Academy](https://academy.langchain.com/collections) - LangChain Academy'den güncel GenAI teknolojilerini öğrenin.
 -  ☕ [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) - Karpathy ile LLM'lerin temellerine derin bir dalış yapın.
 -  [GenAI wit Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) - Gradio ile GenAI uygulamalarının nasıl deploy edileceğini öğrenin.
 -  ☕ [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Multi Agent sistemlerin temellerini CrewAI ile öğrenin.
