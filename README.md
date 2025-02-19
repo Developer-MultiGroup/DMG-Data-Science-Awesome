@@ -128,7 +128,7 @@
 - [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning): Kaggle'ın temel seviye ML kursu. Basit seviyede konseptler, tanımlar içerir.
 - [Kaggle Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning): Kaggle'ın giriş seviye kursunun devamı niteliğinde, yine de seviyesi çok üst düzey değil. Başlangıç seviyesinde olanların da rahatlıkla takip edebilecekleri bir kurs.
 - [DataTalksClub ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp): DataTalksClub'ın ML Zoomcamp'i. İçerikleri kendi hızınızda tüketebilirsiniz ancak, yılın belli dönemlerinde Zoom üzerinden dersler, ödevler vb. şeklinde de takip edilen "Zoomcamp"leri mevcut.
-
+- ☕ [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Zaman serileri üzerine kapsamlı bir kaynak.
 
 ### 📖 Blog Tutorials
 
