@@ -325,35 +325,25 @@ Derin Öğrenme'nin üç büyük framework'ünün linkleri. Önce Tensorflow vey
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
-### 📖 Blog Tutorials
-- [What Is Computer Vision? An Introduction to AI’s Visual Understanding](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) - Bilgisayar Görüşü nedir? Temel bir giriş.
-- [How Computers “See” Images](https://medium.com/@Coursesteach/computer-vision-part-7-4e50b0e8b653) - Bilgisayarların görsel veriyi nasıl işlediğine dair bir makale.
+### 🔗 Useful Links  
+- 📖 **[Computer Vision (GeeksforGeeks)](https://www.geeksforgeeks.org/computer-vision/)** - Bilgisayarlı görüye giriş ve temel kavramlar.  
+- 🎯 **[Introduction to Object Detection](https://medium.com/@kattarajesh2001/object-detection-part-1-introduction-to-object-detection-321f1fd56295)** - Nesne tespitine giriş ve temel teknikler.  
+- 📖 **[Introduction to Computer Vision with TensorFlow (Microsoft)](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/)** - Microsoft’un sunduğu, TensorFlow kullanarak bilgisayarlı görüye giriş eğitim modülü.  
+- 🔍 **[Computer Vision with TensorFlow](https://www.tensorflow.org/tutorials/images?hl=tr)** - TensorFlow kullanarak bilgisayarlı görü projeleri geliştirme.  
+- 📊 **[Deep Learning for Computer Vision ](https://www.geeksforgeeks.org/deep-learning-for-computer-vision/)** - Derin öğrenmenin bilgisayarlı görüde nasıl kullanıldığına dair kapsamlı anlatım.  
+- 📝 **[Ultralytics Docs](https://docs.ultralytics.com/)** - YOLO serisi gibi popüler nesne tespiti modellerini geliştiren Ultralytics’in resmi dökümantasyonu.  
+
+### 📚 Tutorials  
+- 📖 **[OpenCV Tutorials](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)** - OpenCV’nin resmi dokümantasyon ve eğitimleri.  
+- 🐍 **[OpenCV-Python Tutorials](https://docs.opencv.org/4.11.0/d6/d00/tutorial_py_root.html)** - Python ile OpenCV kullanımı için kapsamlı rehber.  
+- 📌 **[OpenCV Python Tutorial (GeeksforGeeks)](https://www.geeksforgeeks.org/opencv-python-tutorial/)** - OpenCV’ye giriş ve temel işlevlerin anlatıldığı rehber.  
+- 🎯 **[Simple Object Tracking with OpenCV (PyImageSearch)](https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/)** - OpenCV ile basit nesne takibi örnekleri.  
+- 🎥 **[Moving Object Detection with OpenCV](https://learnopencv.com/moving-object-detection-with-opencv/)** - OpenCV kullanarak hareketli nesne tespiti yapma yöntemleri.  
 
 
-### 📹 Video Tutorials
-- [What is Pixel? (TechUpbeat)](https://www.youtube.com/watch?v=wsFROq2jVSQ) - Piksel nedir? Piksel temel bilgileri.
-- [RGB and Pixel Range Basics](https://www.youtube.com/watch?v=YsonLUQ-rTU) - Piksel aralığı ve RGB temel bilgileri.
-- [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
-
-
-### 🛠️ OpenCV
-- [OpenCV Kitap (Mesut Piskin)](https://mesutpiskin.com/blog/wp-content/uploads/2017/01/OpenCV%20Kitap.pdf) - Türkçe bir OpenCV kitabı.
-- [How to Install OpenCV for Python (Geeky Script)](https://www.youtube.com/watch?v=LRyoSwgLkH4) - Python için OpenCV'nin nasıl kurulacağını gösteren bir video.
-- [OpenCV Kılavuzu (GitHub)](https://github.com/HCUx/goruntu-isleme-kilavuzu) - OpenCV ile görüntü işleme rehberi.
-- [OpenCV Python Tutorial](https://www.geeksforgeeks.org/opencv-python-tutorial) - OpenCV için başlangıç rehberi.
-- [Basit Örnek Uygulamalar](https://istdatascience.com/opencv-ile-goruntu-iyilestirme-teknikleri-ornek-uygulamalar) - OpenCV ile görüntü iyileştirme teknikleri.
-- [Simple Object Tracking with OpenCV (PyImageSearch)](https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv) - Basit nesne takibi örnekleri.
-- [Moving Object Detection with OpenCV](https://learnopencv.com/moving-object-detection-with-opencv/) - Hareketli nesne tespiti için OpenCV örnekleri.
-
-### 📦 Object Detection
-- [Convolutional Neural Networks (CNN) - Melike Demirel](https://medium.com/@gkdemrmelike/evri%C5%9Fimsel-sinir-a%C4%9Flar%C4%B1-convolutional-neural-network-18a05f54bdb6) - CNN hakkında temel bilgiler.
-- [CNN Object Detection Playlist](https://www.youtube.com/playlist?list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs) - CNN ile nesne tespiti için eğitim serisi.
-- [Introduction to Object Detection](https://medium.com/@kattarajesh2001/object-detection-part-1-introduction-to-object-detection-321f1fd56295) - Nesne tespitine giriş.
-- [Two-Stage Detectors (R-CNN, Fast R-CNN, Faster R-CNN)](https://medium.com/@kattarajesh2001/object-detection-part-2-two-stage-detectors-r-cnn-fast-r-cnn-faster-r-cnn-026e5fac5dd0) - İki aşamalı nesne tespit yöntemleri.
-- [One-Stage Detectors: YOLO](https://medium.com/@kattarajesh2001/object-detection-part-3-one-stage-detectors-yolo-a4a6b4dd2d33) - YOLO yöntemi ile nesne tespiti.
-- [Top Object Detection Models in 2025](https://www.hitechbpo.com/blog/top-object-detection-models.php) - Güncel nesne tespiti modelleri.
-- [YOLO Explained: From v1 to v11](https://viso.ai/computer-vision/yolo-explained/) - YOLO'nun farklı sürümlerinin açıklaması.
-- [YOLOv8 Tutorials](https://www.youtube.com/playlist?list=PLZCA39VpuaZZ1cjH4vEIdXIb0dCpZs3Y5) - YOLOv8 için eğitim serisi.
+### 🎓 Courses  
+- 📌 **[OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/?utm_source=opcv&utm_medium=releases)** - OpenCV temellerinden ileri seviye uygulamalara kadar detaylı bir kurs.  
+- 🎓 **[Görüntü Üretmeye Giriş (Google Cloud)](https://www.cloudskillsboost.google/course_templates/541?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=42154782)** - Google Cloud’un sunduğu yapay zeka ile görüntü üretme kursu.  
 
 
 </details>
