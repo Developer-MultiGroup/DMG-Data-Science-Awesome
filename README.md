@@ -345,6 +345,8 @@ Derin Öğrenme'nin üç büyük framework'ünün linkleri. Önce Tensorflow vey
 - 📌 **[OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/?utm_source=opcv&utm_medium=releases)** - OpenCV temellerinden ileri seviye uygulamalara kadar detaylı bir kurs.  
 - 🎓 **[Görüntü Üretmeye Giriş (Google Cloud)](https://www.cloudskillsboost.google/course_templates/541?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=42154782)** - Google Cloud’un sunduğu yapay zeka ile görüntü üretme kursu.  
 
+### 📹 Video Tutorials
+- [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) - Hugging Face komünitesi tarafından oluşturulan görüntü işleme kursu.
 
 </details>
 
