@@ -119,6 +119,9 @@
 
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
+### 🔗 Useful Links
+- [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva) - ML için hazırlanmış kapsamlı bir roadmap.
+
 ### Courses
 
 - [Makine Öğrenmesine Giriş](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH) - ML teorisini detaylı bir şekilde öğrenin. Ders kaynaklarına [buradan](https://github.com/sibirbil/IMO2020) erişebilirsiniz.
