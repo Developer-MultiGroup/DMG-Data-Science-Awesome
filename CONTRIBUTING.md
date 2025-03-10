@@ -48,6 +48,15 @@ root
 5. Son olarak, bu repoya yeni bir `pull request` oluşturun ve yaptığınız değişiklikleri açıklamak için gerekli bilgileri ekleyin.
 
 # Dikkat edilmesi gerekenler
+## Kaynak seçimi
+- Öncelikle linkin çalışır durumda olduğundan ve harhangi zararlı bir kaynağa yönlendirmediğinden emin olun.
+- Birkaç dakikalık videolar veya kısa okuma süresi olan blog gönderilerinden ziyade bir YouTube video serisi veya blog serisi şeklinde eklemeye çalışın.
+- Kitap/doküman eklerken yeterince güncel olmayan, telif içeren veya ücretli kaynakları eklemekten kaçının.
+- Reklam içeren içerikleri eklemekten kaçının.
+
+**Not:** Bir kaynağı eklerken yukarıdaki her maddeye dikkat ettiğinizden emin olun.
+
+## Repo düzeni
 - Eklediğiniz her kaynağı ilgili kategori veya markdown dosyasının altında bulunmalıdır.
 - Paylaştığınız kaynak, kitap veya kurs için kısa bir açıklama ekleyiniz.
 - Kaynağın seviyesini maksiumum ☕☕ emojisi ile belirtebilirsiniz.  
