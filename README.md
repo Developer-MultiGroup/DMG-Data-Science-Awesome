@@ -185,6 +185,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook) - Farklı araçlar kullanılarak yapılmış çeşitli GenAI uygulama örnekleri bulabileceğiniz bir repo.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Promt engineering temellerini detaylı bir şekilde öğrenin.
 - [Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Hugging Face tarafından verilen agents kursu.
+- [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) - Hugging Face tarafından verilen MCP kursu.
 - ☕ [LLM Course](https://github.com/mlabonne/llm-course) - LLM'leri notebooklar üzerinden detaylı anlatan repo. 
 - ☕ [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Birçok farklı konsteptte agent notebookunu başlangıçtan ileri seviyeye doğru anlatan repo.
 - ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paperların torch tabanlı implemanstasyonlarını içeren websitesi.
