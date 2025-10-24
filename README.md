@@ -313,6 +313,10 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) - Deep learning için Pytorch'u kapsamlı bir şekilde öğrenin.
 - ☕☕ [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) - Pytorch'un nasıl çalıştığını öğrenin.
 
+## Courses
+
+- [HF Robotics Course](https://huggingface.co/learn/robotics-course/unit0/1) - Hugging Face tarafından verilen Robotic kursu.
+
 ## Frameworks
 
 Derin Öğrenme'nin üç büyük framework'ünün linkleri. Önce Tensorflow veya Pytorch, daha sonra da Jax kurcalanarak devam edilebilir. Her birinin kaynakları, blogları, demoları santim santim takip edildiğinde oldukça öğretici.
@@ -509,3 +513,4 @@ Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksiks
 [![awesome contributors](https://contrib.rocks/image?repo=Developer-MultiGroup/DMG-Data-Science-Awesome)](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Developer-MultiGroup/DMG-Data-Science-Awesome&type=Date)](https://star-history.com/#Developer-MultiGroup/DMG-Data-Science-Awesome&Date)
+
