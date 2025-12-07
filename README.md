@@ -22,14 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/Follow@devmultigroup-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devmultigroup) [![Twitter Follow](https://img.shields.io/twitter/follow/devmultigroup?style=social)](https://x.com/devmultigroup) [![Share on X](https://img.shields.io/badge/Share_on-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 [![Share on LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
-### 🌟 Alanlar ve Sorumlu Kişiler
-
-| 🐍 Python & SQL | 📈 Machine Learning | 📝 Natural Language Processing|
-|----------|----------|----------|
-| 📊 Data Science | 🚀 MLOps & Cloud | 🤖 GenerativeAI|
-| [Selin Çıldam](https://www.linkedin.com/in/selincildam/)| [Göker Güner](https://www.linkedin.com/in/gokerguner/) | [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)|
-
-
 
 # 📑Table of Contents
 | 🗂️ **Structured**               |   🧠 **Unstructured**               |
@@ -69,7 +61,7 @@
 
 ### Python
 
-- [Yazbel Belgeleri](https://python-istihza.yazbel.com/index.html) - Python dilini Türkçe olarak detaylı bir şekilde öğrenin.
+- [Yazbel Belgeleri](https://python.yazbel.com/) - Python dilini Türkçe olarak detaylı bir şekilde öğrenin.
 - [CS50 Python](https://cs50.harvard.edu/python/2022/) - Harvard'ın ünlü CS50 dersinin Python için özel versiyonu.
 - [30 Days of Python](https://dev.to/arindamdawn/series/7425) - 30 günde Python öğrenin.
 - [Code. Simply. Clearly. Calmly.](https://calmcode.io/) - Python'daki birçok temel konsepti kısa ve öz videolar üzerinden öğrenin.
@@ -136,7 +128,7 @@
 ### 📖 Blog Tutorials
 
 - ☕[Supervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-supervised-learning): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimli öğrenme notları.
-- ☕[Unsupervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-unsupervised-learning/): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimsiz öğrenme notları.
+- ☕[Unsupervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-unsupervised-learning): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimsiz öğrenme notları.
 - [What is Overfitting?](https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/): Overfitting kavramını ve kaçınmanın yollarını öğrenin. 
 - [Scikit Learn Official Document](https://scikit-learn.org/stable/index.html): Temel algoritmalar, preprocess yöntemleri, model başarı ölçümlemeleri gibi Machine Learning'e ait neredeyse bütün konseptler için Python dilinde kullanabileceğiniz scikit-learn'ün resmi dokümantasyonu.
 - [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics) - Makine öğrenmesi algoritmalarının hem teorisini hem pratiğini notebooklar üzerinden adım adım implemantasyonuyla birlikte veren repo.
@@ -210,7 +202,6 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 -  [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) - Anthropics kendi modelleri üzerinden anlattığı Prompt Engineering notebookları.
 - [Google Agents](https://ppc.land/content/files/2025/01/Newwhitepaper_Agents2.pdf) - Google tarafından yayınlanmış agent eğitim dokümanı.
 - ☕ [A Tutorial on LLM](https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc) - Transformer mimarisinin nasıl çalıştığını ve GenAI için önemli kavramları öğrenin.
-- ☕ [MultiModal Uygulama Geliştirip Hugging Face Spaces’te Yayınlamak!](https://medium.com/@cakirduygu/multimodal-uygulama-geli%C5%9Ftirip-hugging-face-spaceste-yay%C4%B1nlamak-65ca98ec38af) - Açık Kaynak LLM'ler ile yaptığınız çalışmaları nasıl yayınlayacağınızı öğrenin.
 - ☕[ModernBERT](https://huggingface.co/blog/modernbert) - Modernleştirilmiş Bert mimarisini öğrenin.
 - ☕[Building effective agents](https://www.anthropic.com/research/building-effective-agents) - Efektif agent nasıl geliştirilir?
 - ☕ [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) - Transformers modelleri nasıl metin üretiyor?
@@ -399,7 +390,6 @@ Derin Öğrenme'nin üç büyük framework'ünün linkleri. Önce Tensorflow vey
 Bu kadar eğitim, kurs, bilgi vs. elini kirletmeden bir değer taşımıyor. Demolar yapıp bunları yayınlamanızı sağlayabilecek, her birine en az bir, belki birkaç haftasonu ayırabileceğiniz deployment toolları:
 
 - [Streamlit](https://streamlit.io/)
-- [Vercel](https://vercel.com/)
 - [Gradio](https://www.gradio.app/)
 
 Bir diğer önemli konu da uçtan uca pipeline tasarlayabilmek. Bunlar da elbette pratikle olabilecek şeyler. MLOps süreçleri konusunda da oldukça yeterli sayıda open source toollar var.
@@ -503,7 +493,7 @@ Bir diğer önemli konu da uçtan uca pipeline tasarlayabilmek. Bunlar da elbett
 
 Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak siz de [Stargazers](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome/stargazers)'ların arasına katılıp bizi buna benzer kaynak paylaşımları yapmaya motive edebilirsiniz.⭐
 
-Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksikse veya düzeltilmesi gerekiyorsa lütfen ilgili kişilere ulaşarak bunu bildirin ve en kısa sürede düzenlememize katkıda bulunmuş olun 👍🏻 Bu ve benceri içerikler için bize takip etmeyi unutmayın 👇🏼
+Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksikse veya düzeltilmesi gerekiyorsa lütfen ilgili kişilere ulaşarak bunu bildirmekten çekinmeyin. Bu ve benzeri içerikler için bizi takip etmeyi unutmayın 👇🏼
 
 <p align="left"> <a href="https://discord.gg/gEfnhvcr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="32" height="32" /></a> <a href="https://github.com/Developer-MultiGroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/company/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="32" height="32" style="border-radius: 5px;" /></a> <a href="https://www.instagram.com/devmultigroup/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" /></a> <a href="https://medium.com/developer-multicamp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="32" height="32" /></a> <a href="https://x.com/devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@devmultigroup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="32" height="32" /></a> </p>
 
@@ -513,4 +503,5 @@ Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksiks
 [![awesome contributors](https://contrib.rocks/image?repo=Developer-MultiGroup/DMG-Data-Science-Awesome)](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Developer-MultiGroup/DMG-Data-Science-Awesome&type=Date)](https://star-history.com/#Developer-MultiGroup/DMG-Data-Science-Awesome&Date)
+
 
