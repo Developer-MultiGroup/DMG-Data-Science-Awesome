@@ -33,5 +33,5 @@
 ## 🤖 AI Agents
 
 - [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MagenticOne.pdf): A generalist multi-agent system is all you need (Also, AutoGenBench for rigorous agentic evaluation)
-- [Agents from Google](https://www.unidigital.news/wp-content/uploads/2025/01/Newwhitepaper_Agents2.pdf): Generative AI agents are all you need (Tools, orchestration layers, and cognitive architectures)
 - [Agent-Oriented Planning In Multi-Agent Systems](https://arxiv.org/pdf/2410.02189): Agent-Oriented Planning is All You Need (Also, fast decomposition, reward models, and feedback loops)
+
