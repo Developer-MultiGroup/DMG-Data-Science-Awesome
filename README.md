@@ -19,7 +19,9 @@
 > 👋 Kaynak arşivine katkı sağlamadan önce lütfen [Contribution Guide](./CONTRIBUTING.md)'a göz atınız.
 
 
-[![LinkedIn](https://img.shields.io/badge/Follow@devmultigroup-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devmultigroup) [![Twitter Follow](https://img.shields.io/twitter/follow/devmultigroup?style=social)](https://x.com/devmultigroup) [![Share on X](https://img.shields.io/badge/Share_on-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
+[![LinkedIn](https://img.shields.io/badge/Follow@devmultigroup-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devmultigroup)
+[![X Follow](https://img.shields.io/twitter/follow/devmultigroup?style=social)](https://x.com/devmultigroup)
+[![Share on X](https://img.shields.io/badge/Share_on-X-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 [![Share on LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
 
@@ -50,7 +52,7 @@
 - [Hackerrank SQL](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) - SQL'de pratik yapın.
 - [NeetCode Data Structures](https://neetcode.io/practice) - Veri yapıları konusunda pratik yapın.
 - [algoleague](https://algoleague.com/) - Çeşitli dillerde algoritma sorularını çözebileceğiniz ve yarışmalara katılabileceğiniz yerli platform.
-- [Grind 75 questions](https://www.techinterviewhandbook.org/grind75/?weeks=8&hours=8) - Planlı bir şekilde algoritma mülakatlarındaki ana konsteptleri halledin.
+- [Grind 75 questions](https://www.techinterviewhandbook.org/grind75/?weeks=8&hours=8) - Planlı bir şekilde algoritma mülakatlarındaki ana konseptleri halledin.
 
 
 ### SQL 
@@ -78,8 +80,8 @@
 
 ### 🔗 Useful Links
 
-- [Veri Defteri](https://veridefteri.com/) - Veri Biliminin bir çok konusu hakkında hem blog hem video tutorialları olan websitesi.
-- [Yapay Zekâ Araştırma İnisiyatifi](https://yz-ai.github.io/kaynaklar/) - Derin öğrenme konusunda birçok iyi kaynağın çevrilmiş hallerinin derlendiği websitesi. 
+- [Veri Defteri](https://veridefteri.com/) - Veri Biliminin birçok konusu hakkında hem blog hem video tutorialları olan web sitesi.
+- [Yapay Zekâ Araştırma İnisiyatifi](https://yz-ai.github.io/kaynaklar/) - Derin öğrenme konusunda birçok iyi kaynağın çevrilmiş hallerinin derlendiği web sitesi. 
 - [Data Science Roadmap](https://roadmap.sh/ai-data-scientist) - Veri bilimi için temel öğrenilmesi gereken konseptleri gösteren akış diyagramı.
 
 ### Introduction to Data Science
@@ -131,9 +133,9 @@
 - ☕[Unsupervised Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-unsupervised-learning): Stanford'un CS229: Machine Learning dersine ait Türkçeye çevrilmiş Gözetimsiz öğrenme notları.
 - [What is Overfitting?](https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/): Overfitting kavramını ve kaçınmanın yollarını öğrenin. 
 - [Scikit Learn Official Document](https://scikit-learn.org/stable/index.html): Temel algoritmalar, preprocess yöntemleri, model başarı ölçümlemeleri gibi Machine Learning'e ait neredeyse bütün konseptler için Python dilinde kullanabileceğiniz scikit-learn'ün resmi dokümantasyonu.
-- [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics) - Makine öğrenmesi algoritmalarının hem teorisini hem pratiğini notebooklar üzerinden adım adım implemantasyonuyla birlikte veren repo.
-- ☕☕[PapersWithCode](https://paperswithcode.com/) - ML/AI Scientist rollerinde yeni çıkan paperları takip etmek ve elbette bunları hızlıca deneyip çalıştığınız şirket adına işe yararlılığını ölçmek önem taşıyor. Paperswithcode, yeni çıkan paper'ları kodlarıyla birlikte sunuyor.
-- [AIPaper.Dev](https://aipaper.dev/daily) - Alanlarına ayrılmış bir biçimde paperları burada derli toplu görebilirsiniz. Her paper, onu okuyabileceğiniz bir arxiv bağlantısı da içeriyor. Aylık 2$ karşılığında paper özeti gibi ek özelliklere de erişebiliyorsunuz.
+- [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics) - Makine öğrenmesi algoritmalarının hem teorisini hem pratiğini notebooklar üzerinden adım adım implementasyonuyla  birlikte veren repo.
+- ☕☕[PapersWithCode](https://paperswithcode.com/) - ML/AI Scientist rollerinde yeni çıkan paper'ları takip etmek ve elbette bunları hızlıca deneyip çalıştığınız şirket adına işe yararlılığını ölçmek önem taşıyor. Paperswithcode, yeni çıkan paper'ları kodlarıyla birlikte sunuyor.
+- [AIPaper.Dev](https://aipaper.dev/daily) - Alanlarına ayrılmış bir biçimde paper'ları burada derli toplu görebilirsiniz. Her paper, onu okuyabileceğiniz bir arxiv bağlantısı da içeriyor. Aylık 2$ karşılığında paper özeti gibi ek özelliklere de erişebiliyorsunuz.
 
 ### 📹 Video Tutorials
 
@@ -142,7 +144,7 @@
 
 ### 🗃️ Datasets
  
-- [UCI ML Repository](https://archive.ics.uci.edu/datasets): UC Irvine üniversitesine ait veri setleri. Kendi kütüphanesi ile direkt olarak python projesinin içerisine import edebiliyorsunuz.
+- [UCI ML Repository](https://archive.ics.uci.edu/datasets): UC Irvine Üniversitesi'ne ait veri setleri. Kendi kütüphanesi ile direkt olarak python projesinin içerisine import edebiliyorsunuz.
 - [Kaggle Datasets](https://www.kaggle.com/datasets): Kaggle platformundaki veri setleri. Giriş seviyesi kurslardan sonra hangi alanda hangi veri türüyle çalışmak istediğine karar verme aşamasında mutlaka göz atılmalı.
 - [Awesome Repo](https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file#machinelearning): Başlangıç seviyesi küçük veri setlerinin ardından daha büyük projeler çıkarmak isteyenler için daha gelişmiş veri setlerinin olduğu bir repo. Bu repoda ilgi alanlarınıza göre ayrılmış başka alanlardaki veri setlerini de görebilirsiniz.
 
@@ -175,12 +177,12 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [LLM Nasıl Çalışır?](https://llm-viz-tr.vercel.app/) - LLM'lerin nasıl çalıştığını interaktif bir şekilde anlatan web sitesi.
 - [https://research.aimultiple.com/generative-ai-applications/](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
 - [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook) - Farklı araçlar kullanılarak yapılmış çeşitli GenAI uygulama örnekleri bulabileceğiniz bir repo.
-- [Prompt Engineering Guide](https://www.promptingguide.ai/) - Promt engineering temellerini detaylı bir şekilde öğrenin.
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) - Prompt engineering temellerini detaylı bir şekilde öğrenin.
 - [Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Hugging Face tarafından verilen agents kursu.
 - [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) - Hugging Face tarafından verilen MCP kursu.
 - ☕ [LLM Course](https://github.com/mlabonne/llm-course) - LLM'leri notebooklar üzerinden detaylı anlatan repo. 
-- ☕ [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Birçok farklı konsteptte agent notebookunu başlangıçtan ileri seviyeye doğru anlatan repo.
-- ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paperların torch tabanlı implemanstasyonlarını içeren websitesi.
+- ☕ [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Birçok farklı konseptte agent notebookunu başlangıçtan ileri seviyeye doğru anlatan repo.
+- ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paper'ların torch tabanlı implementasyonlarını içeren web sitesi.
 - [LLM Engineers Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - Başlangıç seviyesinden deploy almaya kadar giden LLM ve RAG uygulamalarınızı AWS içerisinde deploylamayı gösteren repo ve kitap.
   
 ### 📹 Video Tutorials
@@ -190,7 +192,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 -  [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) - Google Cloud ile GenAI-LLM temellerini öğrenin.
 -  [RAG & Agents](https://www.youtube.com/playlist?list=PL0cq-CiC5Qht17CmxgQDotcT-mlOulxqg) - RAG ve Agentların temellerini Prof. Tom Yeh'ten öğrenin.
 -  [LangChain Academy](https://academy.langchain.com/collections) - LangChain Academy'den güncel GenAI teknolojilerini öğrenin.
--  [Build a Large Language Model (From Scratch)](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11) - Sebastian Raschka'nın Build a Large Language Model kitabının anlatımını yaptığı yt serisi.
+-  [Build a Large Language Model (From Scratch)](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11) - Sebastian Raschka'nın Build a Large Language Model kitabının anlatımını yaptığı YouTube serisi.
 -  ☕ [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) - Karpathy ile LLM'lerin temellerine derin bir dalış yapın.
 -  [GenAI wit Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) - Gradio ile GenAI uygulamalarının nasıl deploy edileceğini öğrenin.
 -  ☕ [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Multi Agent sistemlerin temellerini CrewAI ile öğrenin.
@@ -205,7 +207,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - ☕[ModernBERT](https://huggingface.co/blog/modernbert) - Modernleştirilmiş Bert mimarisini öğrenin.
 - ☕[Building effective agents](https://www.anthropic.com/research/building-effective-agents) - Efektif agent nasıl geliştirilir?
 - ☕ [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) - Transformers modelleri nasıl metin üretiyor?
-- ☕ [Create a Swarm of Agents](https://haystack.deepset.ai/blog/swarm-of-agents) - OpenAI'ın Swarm konseptini başka modellerle (Llama, Antropic Claude vs.) nasıl yapılacağını anlatan bir blog yazısı
+- ☕ [Create a Swarm of Agents](https://haystack.deepset.ai/blog/swarm-of-agents) - OpenAI'ın Swarm konseptini başka modellerle (Llama, Anthropic Claude vs.) nasıl yapılacağını anlatan bir blog yazısı
 - ☕☕ [LLM Workshop](https://github.com/rasbt/LLM-workshop-2024) - LLM temellerini notebooklar üzerinden detaylı bir şekilde öğrenin.
 - ☕☕ [Transformers From Scratch](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html) - Sıfırdan Transformers mimarisini öğrenin.
 - ☕☕ [Llama 3 from Scratch](https://github.com/naklecha/llama3-from-scratch/blob/main/llama3-from-scratch.ipynb) - Llama 3 modelini sıfırdan implemente eden eğlenceli bir notebook.
@@ -251,7 +253,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 ### Models
 - [OpenAI](https://openai.com/api/) - OpenAI'nin API'si, çeşitli doğal dil görevlerini yerine getiren GPT-3 ve GPT-4 modellerine ve doğal dili koda çeviren Codex'e erişim sağlar.
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - Meta tarafından geliştirilen, 65 milyar parametreli temel bir büyük dil modeli.
-- [deepseek](https://www.deepseek.com/) - Açık kaynak olarak geliştirilen, oldukça başarılı yanıtlar üreten LLM.
+- [Deepseek](https://www.deepseek.com/) - Açık kaynak olarak geliştirilen, oldukça başarılı yanıtlar üreten LLM.
 - [Claude](https://claude.ai/) - Anthropic tarafından geliştirilen bir yapay zeka asistanı olan Claude ile konuşun.
 - [Mixtral](https://mistral.ai/news/mixtral-of-experts/) - Açık ağırlıklara sahip "sparse mixture of experts" mimarisiyle yüksek kaliteli ve verimli doğal dil işleme çözümleri sunan bir model.
 - [Grok](https://grok.x.ai/) - xAI tarafından geliştirilen ve [açık kaynak](https://github.com/xai-org/grok-1) ve açık ağırlıklara sahip bir büyük dil modeli. 
@@ -274,7 +276,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 **[`^        back to top        ^`](#dmg-data-science-awesome)**
 
 ### 🔗 Useful Links
-- [Turkish NLP Resources](https://turkce.netlify.app/) - Türkçe NLP kaynaklarının derlendiği websitesi.
+- [Turkish NLP Resources](https://turkce.netlify.app/) - Türkçe NLP kaynaklarının derlendiği web sitesi.
 - [NLP Cheat Sheet Repo](https://github.com/janlukasschroeder/nlp-cheat-sheet-python) - Python NLP Cheat Sheet
 - [High-Quality Resources for studying NLP](https://medium.com/nlplanet/awesome-nlp-18-high-quality-resources-for-studying-nlp-1b4f7fd87322) - Kaliteli NLP kaynakları
 
@@ -361,19 +363,19 @@ Derin Öğrenme'nin üç büyük framework'ünün linkleri. Önce Tensorflow vey
 
 ## Courses
 
-- [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - DataTalksClub isimli topluluğun MLOps Zoocamp'i. Self-paced, ama dönem dönem online canlı derslerle dünyanın her yerinden katılımcılarla da senkron bir şekilde ödevli takipli alabiliyorsunuz kursu. Aynı repodan topluluğun web sitesine gidip diğer kursları inceleyebilir ve topluluğa özel kanallara da katılabilirsiniz.
+- [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - DataTalksClub isimli topluluğun MLOps Zoomcamp'i. Self-paced, ama dönem dönem online canlı derslerle dünyanın her yerinden katılımcılarla da senkron bir şekilde ödevli takipli alabiliyorsunuz kursu. Aynı repodan topluluğun web sitesine gidip diğer kursları inceleyebilir ve topluluğa özel kanallara da katılabilirsiniz.
 
-- [MLOps Roadmap](https://roadmap.sh/mlops) - Roadmap.sh, teknolojinin pek çok alanı ile ilgili oldukça detaylı, takip etmesi belki bir yılı bulabilecek dolu dolu roadmapler sunuyor, MLOps roadmapi de bunlardan biri.
+- [MLOps Roadmap](https://roadmap.sh/mlops) - Roadmap.sh, teknolojinin pek çok alanı ile ilgili oldukça detaylı, takip etmesi belki bir yılı bulabilecek dolu dolu roadmapler sunuyor, MLOps roadmap'i de bunlardan biri.
 
 ## Blogs
 
 - [Marvelous MLOps](https://marvelousmlops.substack.com/) - MLOps'a dair takip edilesi bir blog, aynı isimli bir Linkedin sayfaları da var, orada daha aktifler. 
 
-- ☕☕[Google Vertex AI](https://cloud.google.com/vertex-ai) - Google'ın AI platformu Vertex AI'ın dokümanı. Cloud'a dair pek çok doküman&kaynak bulunabilir elbette ama öğrenmenin en iyi yolu kesinlikle orjinal dokümanları incelemek.
+- ☕☕[Google Vertex AI](https://cloud.google.com/vertex-ai) - Google'ın AI platformu Vertex AI'ın dokümanı. Cloud'a dair pek çok doküman&kaynak bulunabilir elbette ama öğrenmenin en iyi yolu kesinlikle orijinal dokümanları incelemek.
 
 - ☕☕[AWS Bedrock Samples](https://github.com/aws-samples/amazon-bedrock-samples) - AWS Bedrock örneklerini içeren repo.
 
-- ☕[Google Cloud Docs](https://cloud.google.com/docs) Google'ın cloud altyapsına dair, konularına ayrılmış kendi dokümanları. Google, ilk hesap açılışında 300 dolarlık bedava kredi de sunuyor.
+- ☕[Google Cloud Docs](https://cloud.google.com/docs) Google'ın cloud altyapısına dair, konularına ayrılmış kendi dokümanları. Google, ilk hesap açılışında 300 dolarlık bedava kredi de sunuyor.
 
 ## Video Tutorials
 
@@ -387,7 +389,7 @@ Derin Öğrenme'nin üç büyük framework'ünün linkleri. Önce Tensorflow vey
 
 ## Tools
 
-Bu kadar eğitim, kurs, bilgi vs. elini kirletmeden bir değer taşımıyor. Demolar yapıp bunları yayınlamanızı sağlayabilecek, her birine en az bir, belki birkaç haftasonu ayırabileceğiniz deployment toolları:
+Bu kadar eğitim, kurs, bilgi vs. elini kirletmeden bir değer taşımıyor. Demolar yapıp bunları yayınlamanızı sağlayabilecek, her birine en az bir, belki birkaç haftasonu ayırabileceğiniz deployment tools:
 
 - [Streamlit](https://streamlit.io/)
 - [Gradio](https://www.gradio.app/)
@@ -454,7 +456,7 @@ Bir diğer önemli konu da uçtan uca pipeline tasarlayabilmek. Bunlar da elbett
 ### [🚴🏽‍♂️ Taner Sekmen](https://www.youtube.com/watch?v=63p7xIY_lgw)
 - [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur/videos) - ML ve NLP konularında hands-on videoları içeren kanal
 - ☕ [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) - Data Science özelinde birçok teorik içeriği bulabileceğiniz kanal
-- ☕ [Yannic Kilcher](https://youtube.com/@YannicKilcher/) - ML alanında yayınlanan paperları inceleyip anlatımını yapan kanal
+- ☕ [Yannic Kilcher](https://youtube.com/@YannicKilcher/) - ML alanında yayınlanan paper'ları inceleyip anlatımını yapan kanal
 - ☕ [Natural Language Processing with Transformers, Revised Edition](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) - NLP alanında hands-on içeriklerin yer aldığı tatlı bir kitap :)
 
 
@@ -488,7 +490,7 @@ Bir diğer önemli konu da uçtan uca pipeline tasarlayabilmek. Bunlar da elbett
 
 </details>
 
-## ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
+## ⭐ Bu Repoyu Faydalı Buldunuz Mu?
 
 
 Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak siz de [Stargazers](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome/stargazers)'ların arasına katılıp bizi buna benzer kaynak paylaşımları yapmaya motive edebilirsiniz.⭐
@@ -503,5 +505,6 @@ Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksiks
 [![awesome contributors](https://contrib.rocks/image?repo=Developer-MultiGroup/DMG-Data-Science-Awesome)](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Developer-MultiGroup/DMG-Data-Science-Awesome&type=Date)](https://star-history.com/#Developer-MultiGroup/DMG-Data-Science-Awesome&Date)
+
 
 
