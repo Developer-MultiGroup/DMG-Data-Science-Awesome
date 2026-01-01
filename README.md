@@ -175,7 +175,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - [LLMOps Database](https://www.zenml.io/llmops-database) - Gerçek dünya senaryolarında LLM'lerin nasıl kullanıldığını ayrıntılı bir şekilde görebileceğiniz web sitesi.
 - [ML and LLM system design](https://www.evidentlyai.com/ml-system-design) - ML ve LLM için oluşturulmuş 500+ case study.
 - [LLM Nasıl Çalışır?](https://llm-viz-tr.vercel.app/) - LLM'lerin nasıl çalıştığını interaktif bir şekilde anlatan web sitesi.
-- [https://research.aimultiple.com/generative-ai-applications/](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
+- [GenerativeAI Use Cases](https://research.aimultiple.com/generative-ai-applications/) - GenAI gerçek hayat örnekleri.
 - [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook) - Farklı araçlar kullanılarak yapılmış çeşitli GenAI uygulama örnekleri bulabileceğiniz bir repo.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Prompt engineering temellerini detaylı bir şekilde öğrenin.
 - [Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Hugging Face tarafından verilen agents kursu.
@@ -184,7 +184,8 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - ☕ [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Birçok farklı konseptte agent notebookunu başlangıçtan ileri seviyeye doğru anlatan repo.
 - ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paper'ların torch tabanlı implementasyonlarını içeren web sitesi.
 - [LLM Engineers Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - Başlangıç seviyesinden deploy almaya kadar giden LLM ve RAG uygulamalarınızı AWS içerisinde deploylamayı gösteren repo ve kitap.
-  
+- [Claude Code Templates](https://www.aitmpl.com/agents) - Claude Code için hazır agent templateler bulabileceğiniz bir web sitesi.
+
 ### 📹 Video Tutorials
 -  [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
 -  [Building AI Applications with Haystack (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) - Haystack kullanarak farklı GenAI uygulamaları geliştirmeyi öğrenin.
@@ -505,6 +506,7 @@ Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksiks
 [![awesome contributors](https://contrib.rocks/image?repo=Developer-MultiGroup/DMG-Data-Science-Awesome)](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Developer-MultiGroup/DMG-Data-Science-Awesome&type=Date)](https://star-history.com/#Developer-MultiGroup/DMG-Data-Science-Awesome&Date)
+
 
 
 
