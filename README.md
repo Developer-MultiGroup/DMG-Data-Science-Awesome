@@ -190,6 +190,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 -  [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
 -  [Building AI Applications with Haystack (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) - Haystack kullanarak farklı GenAI uygulamaları geliştirmeyi öğrenin.
 -  [OpenAI Academy](https://academy.openai.com/) - OpenAI temelli GenAI araçlarını nasıl kullanacağınızı öğrenin.
+-  [Anthropic Academy](https://www.anthropic.com/learn) - Anthropic temelli GenAI araçlarını nasıl kullanacağınızı öğrenin.
 -  [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) - Google Cloud ile GenAI-LLM temellerini öğrenin.
 -  [RAG & Agents](https://www.youtube.com/playlist?list=PL0cq-CiC5Qht17CmxgQDotcT-mlOulxqg) - RAG ve Agentların temellerini Prof. Tom Yeh'ten öğrenin.
 -  [LangChain Academy](https://academy.langchain.com/collections) - LangChain Academy'den güncel GenAI teknolojilerini öğrenin.
@@ -506,6 +507,7 @@ Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksiks
 [![awesome contributors](https://contrib.rocks/image?repo=Developer-MultiGroup/DMG-Data-Science-Awesome)](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Developer-MultiGroup/DMG-Data-Science-Awesome&type=Date)](https://star-history.com/#Developer-MultiGroup/DMG-Data-Science-Awesome&Date)
+
 
 
 
